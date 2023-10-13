@@ -1,0 +1,13 @@
+{
+  "name": "Bookmark",
+  "icon": "icon.jpg",
+  "description": "",
+  "required": 1,
+  "version_code": 4,
+  "version_name": "1.0.1",
+  "order": 25,
+  "requirements": [],
+  "displayed": 1,
+  "install_path": "",
+  "upgrade_path": ""
+}

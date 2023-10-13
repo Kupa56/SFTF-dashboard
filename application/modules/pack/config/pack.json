@@ -1,0 +1,12 @@
+{
+  "name": "PackManager Module",
+  "icon": "icon.jpg",
+  "description": "Manage your subscription plan & set specific numbers for each module...",
+  "required": 0,
+  "version_code": 8,
+  "version_name": "1.0.1",
+  "requirements": [],
+  "order": 13,
+  "install_path": "",
+  "upgrade_path": ""
+}

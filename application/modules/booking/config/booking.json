@@ -1,0 +1,12 @@
+{
+  "name": "StoreBooking",
+  "icon": "icon.jpg",
+  "description": "",
+  "required": 0,
+  "version_code": 16,
+  "version_name": "2.0.1",
+  "order": 31,
+  "requirements": [],
+  "install_path": "",
+  "upgrade_path": ""
+}

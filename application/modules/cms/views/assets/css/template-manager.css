@@ -1,0 +1,50 @@
+#Template .template-selector{
+    list-style: none;
+    margin-left: -39px;
+}
+#Template .template-selector li{
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-top: 15px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+body[dir=rtl] #Template .template-selector li{
+    float: right;
+}
+#Template .template-selector li.active img,#Template .template-selector li img:hover{
+    border: 5px solid deepskyblue;
+}
+#Template .template-selector li img{
+    width: 150px;
+    border-radius: 2px;
+    border: 5px solid #eeeeee;
+}
+#Template .template-selector li strong{
+    display: block;
+    padding-top: 10px;
+    text-align: center;
+}
+#Template .template-selector li i{
+    text-align: center;
+    display: block;
+}
+
+ul.sub-navigation{
+    list-style: none;
+    margin-left: -40px;
+}
+
+body[dir=rtl] ul.sub-navigation{
+    margin-left: 40px;
+}
+
+ul.sub-navigation li{
+    padding: 10px 10px 10px 15px;
+}
+
+ul.sub-navigation li.active{
+    background: #eeeeee;
+    border-radius: 3px;
+}

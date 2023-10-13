@@ -1,0 +1,10 @@
+.sub-menu-table{
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 0px !important;
+
+}
+
+.dashed-border{
+    border: dashed 2px gray;
+}

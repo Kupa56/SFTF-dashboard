@@ -1,0 +1,11 @@
+{
+  "name": "BookingPayments",
+  "icon": "icon.jpg",
+  "description": "",
+  "required": 0,
+  "version_code": 4,
+  "version_name": "1.0.2",
+  "order": 33,
+  "install_path": "",
+  "upgrade_path": ""
+}

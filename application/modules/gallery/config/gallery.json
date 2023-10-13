@@ -1,0 +1,12 @@
+{
+  "name": "Gallery Module",
+  "icon": "icon.jpg",
+  "description": "",
+  "required": 1,
+  "version_code": 5,
+  "version_name": "1.0.1",
+  "order": 9,
+  "requirements": [],
+  "install_path": "",
+  "upgrade_path": ""
+}

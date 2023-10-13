@@ -1,0 +1,12 @@
+{
+  "name": "NSTranslator",
+  "icon": "translator_icon.jpg",
+  "description": "",
+  "required": 1,
+  "version_code": 13,
+  "version_name": "2.1.1",
+  "order": 23,
+  "requirements": [],
+  "install_path": "",
+  "upgrade_path": ""
+}

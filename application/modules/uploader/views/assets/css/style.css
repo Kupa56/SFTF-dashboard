@@ -1,0 +1,16 @@
+.media .images-container .item{
+    float: left;
+    outline: 1px solid #eeeeee;
+    padding: 5px;
+    margin: 2px;
+    cursor: pointer;
+}
+
+.media .preview img{
+        height: 200px;
+    outline: 1px solid #eeeeee;
+    padding: 5px;
+    margin: 2px;
+
+}
+

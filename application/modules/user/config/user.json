@@ -1,0 +1,13 @@
+{
+  "name": "User Module",
+  "icon": "icon.jpg",
+  "description": "",
+  "required": 1,
+  "module_system": 0,
+  "version_code": 16,
+  "version_name": "2.2.1",
+  "order": 5,
+  "requirements": [],
+  "install_path": "",
+  "upgrade_path": ""
+}

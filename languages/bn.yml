@@ -1,0 +1,1731 @@
+#Configuration
+ config:
+   name: Bangali
+   version: 1.0
+   dir: ltr
+
+
+
+
+_filter_dashboard_0: আজ
+_filter_dashboard_1: গতকাল
+_filter_dashboard_2: গত ৭ দিন
+_filter_dashboard_3: গত ৩০ দিন
+_filter_dashboard_4: গত ৯০ দিন
+_filter_dashboard_5: সারা বছর
+Hello: হ্যালো
+Welcome: স্বাগতম
+Login: লগইন
+Login_error: লগইন ত্রুটি
+Error: ত্রুটি
+Canceled: বাতিল করা হয়েছে
+FORGET PASSWORD: পাসওয়ার্ড ভুলে গেছেন
+dont_have_account: আপনার অ্যাকাউন্ট আছে না?
+Forgot_Password: পাসওয়ার্ড ভুলে গেছেন
+Login_seccessfully: আপনি সফলভাবে সংযোগ করেছেন
+Total_Stores: মোট দোকানসমূহ
+Total_Events: মোট ইভেন্টসমূহ
+Total_Customers: মোট গ্রাহকগণ
+Total_Campaigns: মোট ক্যাম্পেইনসমূহ
+Overview: সংক্ষিপ্ত বিবরণ
+Recently_Added: সম্প্রতি যোগ করা হয়েছে
+Last_reviews: শেষ পর্যালোচনা
+View_all_stores: সব দোকান দেখুন
+Home: হোম
+Offers: অফারগুলি
+Manage Events: ইভেন্টগুলি পরিচালনা করুন
+Manage Customers: গ্রাহকগণ পরিচালনা করুন
+Categories: ধরনগুলি
+Campaigns: ক্যাম্পেইনসমূহ
+Application: অ্যাপ্লিকেশন
+Events: ইভেন্টসমূহ
+Add_new: নতুন যোগ করুন
+All_stores: সব দোকানসমূহ
+All Offers: সব অফারগুলি
+My_stores: আমার দোকানসমূহ
+All Campaigns: সব ক্যাম্পেইনসমূহ
+My campaigns: আমার ক্যাম্পেইনসমূহ
+Pushed: পুশ করা হয়েছে
+Completed: সম্পন্ন
+Campaigns (No-valid): ক্যাম্পেইনসমূহ (অবৈধ)
+Campaigns: ক্যাম্পেইনসমূহ
+Description_app: NEARBYSTORES একটি প্রযুক্তিগত স্থানীয় ব্যবসায় অনুসন্ধান অ্যাপ যা সহজেই আপনাকে একটি এলাকায় বিভিন্ন ব্যবসার সন্ধানে সাহায্য করতে পারে। এটি একটি শক্তিশালী স্টোর লোকেটর অ্যাডমিন রয়েছে যা আপনাকে স্টোর, ধরন, বিজ্ঞপ্তি, ব্যবসায়ী মালিক, ইভেন্ট এবং অফারগুলি পরিচালনা করতে অনুমতি দেয়।
+Setup_easy_desc: কোডিং করার প্রয়োজন নেই, কনফিগারেশন ফর্মগুলি ব্যবহার করে সহজেই এবং দ্রুত সেটআপ করুন।
+Advanced_setting_desc: সরলীকৃত সেটিংস, অ্যাপের পূর্ণ নিয়ন্ত্রণ (লোগো, নাম, অ্যাক্সেস সীমাবদ্ধতা, ব্যাস, বিজ্ঞপ্তি, মুদ্রা ...)
+Make_business_desc: এই অ্যাপ দিয়ে আপনার ব্যবসায়ের রূপান্তর বৃদ্ধি করুন।
+Beautiful_ui: সুন্দর কার্ডগুলি, অ্যানিমেশন এবং বিজ্ঞপ্তির মাধ্যমে আপনাকে এই অ্যাপে কি গুরুত্বপূর্ণ তা দেখায়।
+Cutomize_app_desc: এটি কোনও প্রোগ্রামিং দক্ষতা প্রয়োজন করে না, অ্যাপটি সহজেই কনফিগার এবং কাস্টমাইজ করা যায়।
+Chat_desc: আপনি অসীম সীমাবদ্ধতার ছাড়াও আপনার প্রতিবার্ষিতা এবং ব্যবসায়ী মালিকদের সাথে চ্যাট করতে পারেন, কেবল অ্যাপে লগইন করুন, আপনার GPS সক্ষম করুন, তারপর আপনি সমস্ত গুরুত্বপূর্ণ ব্যক্তিগতগুলি পাবেন।
+Gps_des: NEARBYSTORES আপনার অবস্থানের উপর ভিত্তি করে আপনাকে নিকটবর্তী সমস্ত আগ্রহী বিষয়গুলি দেবে, সুতরাং অ্যাপ ব্যবহার করার আগে GPS সক্ষম করতে ভুলবেন না।
+Keep_it_controle: ড্যাশবোর্ড আপনাকে অ্যাপ্লিকেশনের ব্যবহারের সম্পূর্ণ দৃশ্যমান করে তুলবে। আপনাকে ভাল ট্রেসাবিলিটি দেওয়ার জন্য গ্রাফ এবং টেবিল উপস্থাপন করা হয়।
+Push_offers: এক ক্লিকে আপনার গ্রাহকদের পাশের নতুন অফার সম্পর্কে অবহিত করতে পুশ বিজ্ঞপ্তি প্রেরণ করুন, আরও আপনি আপনার সমগ্র ক্যাম্পেইনগুলি সংগ্রহ করতে পারেন এবং সরাসরি ব্যবহারকারীদের কাছে পুশ করতে পারেন।
+Manage_customers: একজন প্রশাসক হিসাবে আপনার গ্রাহকগণ এবং তাদের দোকানগুলি পরিচালনা করার অধিকার আছে, আপনি কোনও সাবস্ক্রিপশনের ধরণের উপর ভিত্তি করে ব্যবহারকারীদের অধিকার সীমাবদ্ধ করতে পারেন।
+Support_multi_language: একটি সিম্পল ক্লিকে আপনার পছন্দের ভাষায় স্যুইচ করতে পারেন।
+Advanced_dashboard_desc: একটি সুন্দর ড্যাশবোর্ডের মাধ্যমে সর্বদা আপনার সমাধানের বিষয়ে জানা থাকুন।
+Nearby_stores_features: NEARBYSTORES অবস্থানের সাথে নিকটবর্তী প্রকৃতির সাথে বিল্ট-ইন এক্সাক্ট জিও লোকেশন প্রদান করে যা আপনার গ্রাহকদেরকে সহজতম উপায়ে আপনার দোকানের বিক্ষোভ করতে দেয়।
+Contact_us_desc: আমরা আমাদের গ্রাহকদেরকে দ্রুত এবং নির্ভরযোগ্য সমর্থন প্রদান করি, বিচারক, স্বপ্নসাধন এবং বিশেষ অনুরোধগুলির জন্য। ইনস্টলেশন সাহায্য করার প্রয়োজন হলে, একটি মেসেজ পাঠানোর জন্য আমাদেরকে একটি মেসেজ প্রেরণ করুন।
+you_dont_have_permission: আপনার এই ক্যোয়ারী চালানোর জন্য আপনার অনুমতি নেই, দয়া করে পরে চেষ্টা করুন!
+Are you sure?: আপনি কি নিশ্চিত?
+Are you sure you want to delete it: আপনি কি নিশ্চিত যে আপনি এটি মুছতে চান
+Customer_can_publish_own_event_auto: গ্রাহক প্রযোজনীয়ভাবে স্বয়ংক্রিয়ভাবে তাঁর নিজের ইভেন্ট প্রকাশ করতে পারে এবং অ্যাডমিন অনুমোদন ছাড়াই।
+Number_campaigns_max_monthly: মাসিক সর্বোচ্চ সংখ্যা ক্যাম্পেইন
+Number items per page: প্রতি পৃষ্ঠায় পণ্যের সংখ্যা
+Number stores per page: প্রতি পৃষ্ঠায় দোকানের সংখ্যা
+Download app: অ্যাপ ডাউনলোড করুন
+Dashboard Color: ড্যাশবোর্ড রং
+Upload limitation: আপলোড সীমাবদ্ধতা
+Back-office_logo: ড্যাশবোর্ড লোগো
+Crypto_key: ক্রিপ্টো কী
+Enable Offer: অফার সক্ষম করুন
+Enable Event: ইভেন্ট সক্ষম করুন
+Default_language: ডিফল্ট ভাষা
+User subscription: ব্যবহারকারীর সাবস্ক্রিপশন
+Campaign config: ক্যাম্পেইন কনফিগারেশন
+Welcome message: স্বাগত বার্তা
+Optional field: ঐচ্ছিক ক্ষেত্র
+Dashboard analytics: ড্যাশবোর্ড বিশ্লেষণ
+Enable Messages From Dashboard: ড্যাশবোর্ড থেকে বার্তা সক্ষম করুন
+Allow dashboard messenger to owners: ড্যাশবোর্ড মেসেঞ্জার মালিকদেরকে অনুমতি দিন
+Enable chat with firebase: ফায়ারবেস সঙ্গে চ্যাট সক্ষম করুন
+Should be enabled from app client: অ্যাপ ক্লায়েন্ট থেকে সক্ষম করা উচিত
+Number_max_of_stores: মোট দোকানের সর্বোচ্চ সংখ্যা
+Number_events_max_monthly: মাসিক সর্বোচ্চ ইভেন্টের সংখ্যা
+Number campaigns max monthly: মাসিক সর্বোচ্চ ক্যাম্পেইনের সংখ্যা
+Number_offers_max_monthly: মাসিক সর্বোচ্চ অফারের সংখ্যা
+Email_verificaion: ইমেল যাচাইকরণ
+User_config: ব্যবহারকারী কনফিগারেশন
+App_name: অ্যাপ নাম
+Default_email: ডিফল্ট ইমেল
+Back-office_ logo: ব্যাক অফিস লোগো
+Dashborad_config: ড্যাশবোর্ড কনফিগারেশন
+Number_items_per_page: প্রতি পৃষ্ঠায় আইটেমের সংখ্যা
+Copy_this_key_your_android_res: এই কীটি আপনার Android রিসোর্স ফাইল "app_config.xml" -এ কপি করুন
+Number_stores_per_page: প্রতি পৃষ্ঠায় দোকানের সংখ্যা
+Enable_store: দোকান সক্ষম করুন
+Customer_can_publish_own_store_auto: গ্রাহক বিশ্বাসযোগ্য অনুমোদন ছাড়াই তাঁর নিজের দোকান প্রকাশ করতে পারে
+Default_timezone: ডিফল্ট সময় অঞ্চল
+Default _anguage: ডিফল্ট ভাষা
+Add_new_currency: নতুন মুদ্রা যোগ করুন
+Language: ভাষা
+Without_validation_by_admin: অ্যাডমিন যাচাই ছাড়াই
+Push_campaign_auto: স্বয়ংক্রিয় পুশ ক্যাম্পেইন
+Target_raduis: লক্ষ্যমাত্রা রেডিয়াস (কিমি)
+Number_max_pushes_per_campaign: প্রতি ক্যাম্পেইনের সর্বোচ্চ পুশের সংখ্যা
+Use_campaign_with_crontab: ক্রোনট্যাব সঙ্গে ক্যাম্পেইন ব্যবহার করুন
+you_can_push_10_campaigns_for_every_10_minutes: প্রতি 10 মিনিটে 10 ক্যাম্পেইন পুশ করতে পারেন
+Add_this_url_in_cronTab_in_your_cpanel: আপনার cpanel-এ ক্রোনট্যাবে এই URL যোগ করুন
+Number_max_pushes_per_campaign_with_cronjob_in_every_execute: প্রতি সেগমেন্টে ক্রোনট্যাবের সাথে প্রতি ক্যাম্পেইনের সর্বোচ্চ পুশের সংখ্যা
+Messages Config: বার্তা কনফিগারেশন
+We could not find the page you were looking for: আমরা আপনি যে পৃষ্ঠার খোঁজ করছেন তা খুঁজে পেতে পারিনি
+Meanwhile, you may: এইটানেই, আপনি পারেন
+return to the home page: হোম পৃষ্ঠায় ফিরে যান
+or try using the search form: অথবা অনুসন্ধান ফর্মটি ব্যবহার করার চেষ্টা করুন
+Are you sure that you want to delete this store: আপনি কি নিশ্চিত যে আপনি এই দোকানটি মুছতে চান
+Are you sure that you want to delete this Event: আপনি কি নিশ্চিত যে আপনি এই ইভেন্টটি মুছতে চান
+Are you sure that you want to delete this user: আপনি কি নিশ্চিত যে আপনি এই ব্যবহারকারীটি মুছতে চান
+The installation folder represents a danger: ইনস্টলেশন ফোল্ডার একটি ঝুঁকি প্রকাশ করে
+Please remove install directory: ইনস্টলেশন ফোল্ডারটি সরিয়ে নিন দয়া করে
+Account without verification!: যাচাই ছাড়া অ্যাকাউন্ট!
+We've sent mail verification to your mailbox.: আমরা আপনার মেইলবক্সে যাচাইকরণ প্রেরণ করেছি।
+Delete_confirmation: আপনি কি নিশ্চিত যে আপনি এই দোকানটি মুছতে চান !!
+Alert_compaign: ইভেন্টগুলি, অফারগুলি অথবা নতুন দোকানগুলি আপনার নিকটবর্তী ব্যবহারকারীদের প্রেরণ করুন।
+Type campaign: ক্যাম্পেইনের ধরণ
+No Campaigns: কোন ক্যাম্পেইন নেই
+Offer is expired: অফার মেয়াদ শেষ
+That offer will expire in: সেই অফার মেয়াদ শেষ হবে
+Edit offer: অফার সম্পাদনা করুন
+This campaign will be displayed to %s customers within %s KM: এই ক্যাম্পেইন অফার হবে %1$s গ্রাহকের মধ্যে %2$s কিমির মধ্যে
+Are you sure to duplicate this campaign ?: আপনি কি নিশ্চিত যে আপনি এই ক্যাম্পেইন নকল করতে চান?
+Telephone: টেলিফোন
+Action: অ্যাকশন
+Rating: রেটিং
+Allow: অনুমতি দিন
+Deny: অনুমতি দেওয়া বাতিল করুন
+Your account has created: আপনার অ্যাকাউন্ট তৈরি করা হয়েছে
+Success: সাফল্য
+No data found: কোন ডেটা পাওয়া যায়নি
+Enter your email: আপনার ইমেল প্রবেশ করান
+Title: শিরোনাম
+Reset: পুনরায় সেট করুন
+Connect: সংযুক্ত করুন
+Pending: অনুমোদন অপেক্ষমান
+App name: অ্যাপ নাম
+Symbol: প্রতীক
+Cancel: বাতিল করুন
+Format: ফর্ম্যাট
+Name: নাম
+config_sidebar: গ্লোবাল কনফিগারেশন
+MENU: মেনু
+All Events: সমস্ত ইভেন্ট
+My events: আমার ইভেন্টগুলি
+All Compaigns: সমস্ত ক্যাম্পেইন
+My Compaigns: আমার ক্যাম্পেইনগুলি
+Search: অনুসন্ধান
+Enabled: সক্ষম
+Create your store: আপনার দোকান তৈরি করুন
+Detail: বিস্তারিত
+Add new offer: নতুন অফার যোগ করুন
+Date Begin: শুরুর তারিখ
+Date End: শেষের তারিখ
+Offer: অফার
+Published: প্রকাশিত
+Finished: সম্পন্ন
+Disabled: অক্ষম
+Create new campaign: নতুন ক্যাম্পেইন তৈরি করুন
+Select campaign type: ক্যাম্পেইনের ধরণ নির্বাচন করুন
+Select event: ইভেন্ট নির্বাচন করুন
+Select offer: অফার নির্বাচন করুন
+Push: পুশ করুন
+Duplicate: নকল করুন
+Create: তৈরি করুন
+Role Type: ভূমিকা ধরন
+View all stores: সমস্ত দোকান দেখুন
+Owner: মালিক
+Store: দোকান
+Send password: পাসওয়ার্ড প্রেরণ করুন
+We've sent new password to your mailbox: আমরা আপনার মেইলবক্সে নতুন পাসওয়ার্ড প্রেরণ করেছি
+Profile: প্রোফাইল
+Logout: প্রস্থান
+Add: যোগ করুন
+Toggle navigation: ন্যাভিগেশন টগল করুন
+Save: সংরক্ষণ করুন
+Currencies: মুদ্রাসমূহ
+Default_currency: ডিফল্ট মুদ্রা
+signup: সাইন আপ
+Reviews: পর্যালোচনা
+Stores: দোকানগুলি
+Confirm: নিশ্চিত করুন
+Delete: মুছুন
+Close: বন্ধ করুন
+Update_your_store: আপনার দোকান আপডেট করুন
+Drag the marker to get the exact position: স্থানচিহ্ন টেনে নিন যাতে সঠিক অবস্থান পান
+Add_new_offer: নতুন অফার যোগ করুন
+Clear: স্পষ্ট করুন
+Add new category: নতুন বিভাগ যোগ করুন
+Edit Category: বিভাগ সম্পাদনা করুন
+Category name: বিভাগের নাম
+Offer percent: অফারের শতাংশ
+Offer price by: অফারের মূল্য
+Date end: শেষের তারিখ
+Date begin: শুরুর তারিখ
+Description: বিবরণ
+Targeting estimation: লক্ষ্য অনুমান
+Radius of: ব্যাসার্ধ
+KKm you will target: আপনি কত কিলোমিটার লক্ষ্য করছেন
+nearby guests: নিকটবর্তী অতিথিরা
+Will end at: শেষ হবে
+No Offers: কোন অফার নেই
+Create Event: ইভেন্ট তৈরি করুন
+Image: চিত্র
+Images: ছবি
+Event name: ইভেন্টের নাম
+Address: ঠিকানা
+Username: ব্যবহারকারীর নাম
+Email: ইমেল
+WebSite: ওয়েবসাইট
+Access Role: অ্যাক্সেস ভূমিকা
+Status: স্থিতি
+Customers: গ্রাহকগণ
+Type: ধরণ
+Last visited: সর্বশেষ দেখা
+No-Confirmed: নিশ্চিত নয়
+Confirmed: নিশ্চিত হয়েছে
+Admin: অ্যাডমিন
+Customer: গ্রাহক
+Select store: দোকান নির্বাচন করুন
+Number of stores: দোকানের সংখ্যা
+Create new User: নতুন ব্যবহারকারী তৈরি করুন
+Create new: নতুন তৈরি করুন
+Confirm Password: পাসওয়ার্ড নিশ্চিত করুন
+Password: পাসওয়ার্ড
+Phone Number: ফোন নম্বর
+Number of events monthly: মাসিক ইভেন্টের সংখ্যা
+Campaigns monthly: মাসিক ক্যাম্পেইনের সংখ্যা
+Number of offers monthly: মাসিক অফারের সংখ্যা
+Note: নোট
+Store Name: দোকানের নাম
+Category: বিভাগ
+User configuration: ব্যবহারকারী কনফিগারেশন
+setup_successful: সফল সেটআপ
+have_already_account: ইতিমধ্যে একটি অ্যাকাউন্ট আছে
+Access denied: প্রবেশ অক্ষম
+Sorry you don't have permission to do it: দুঃখিত, আপনার কাছে এটি করার অনুমতি নেই
+User not created !!: ব্যবহারকারী তৈরি করা হয়নি !!
+You don't have an account . could you please create it !!: আপনি কোন অ্যাকাউন্ট নেই। দয়া করে এটি তৈরি করতে পারেন !!
+Store already exist: দোকান ইতিমধ্যে বিদ্যমান
+Login invalid: লগইন অবৈধ
+Empty login: লগইন খালি
+Empty password: খালি পাসওয়ার্ড
+Check your confirm password: আপনার নিশ্চিত পাসওয়ার্ড পরীক্ষা করুন
+Sorry your account is locked !!: দুঃখিত, আপনার অ্যাকাউন্ট লক করা হয়েছে !!
+Auth error: অনুমোদন ত্রুটি
+user not found: ব্যবহারকারী খুঁজে পাওয়া যায়নি
+Username is invalid or already exist!: ব্যবহারকারীর নাম অবৈধ অথবা ইতিমধ্যে বিদ্যমান!
+This name is already exist: এই নাম ইতিমধ
+UUser not logged in: ব্যবহারকারী লগইন করা হয়নি
+Your mail is not valid: আপনার মেইল বৈধ নয়
+Your mail is empty: আপনার মেইল খালি
+Miss authentication to access this page: এই পৃষ্ঠায় প্রবেশের জন্য প্রামাণ্যতা অনুমিষ্ট
+this username or email is already exist: এই ব্যবহারকারীর নাম অথবা ইমেল ইতিমধ্যে বিদ্যমান
+You dont have the access to delete this post: আপনার এই পোস্ট মুছতে অনুমতি নেই
+user not selected: ব্যবহারকারী নির্বাচিত নেই
+username field is empty: ব্যবহারকারীর নামের ক্ষেত্র খালি
+username field is invalid: ব্যবহারকারীর নামের ক্ষেত্র অবৈধ
+forgot password: পাসওয়ার্ড ভুলে গেছেন
+missing mac address: ম্যাক ঠিকানা নেই
+Invalid mac_address: অবৈধ ম্যাক ঠিকানা
+Store_id is messing: Store_id বিচ্ছিন্ন
+Oops! Page not found: উফ্! পৃষ্ঠা পাওয়া যায়নি
+Store name is empty: দোকানের নাম খালি
+Store name is not valid: দোকানের নাম বৈধ নয়
+Store address is empty: দোকানের ঠিকানা খালি
+Phone number is empty !!: ফোন নম্বর খালি !!
+Phone number is invalid !!: ফোন নম্বর অবৈধ !!
+store already: দোকান ইতিমধ্যে
+Category is not set: বিভাগ সেট নেই
+Store not created !!: দোকান তৈরি হয়নি !!
+location not found !!: অবস্থান পাওয়া যায়নি !!
+Store not specified !!: দোকান সুনির্দিষ্ট নয় !!
+You should delete all stores from this category !!: আপনাকে এই বিভাগ থেকে সমস্ত দোকানগুলি মুছতে হবে !!
+Category not found !!: বিভাগ পাওয়া যায়নি !!
+Category is empty !!: বিভাগ খালি !!
+Category name should no be empty !!: বিভাগের নাম খালি হবে না !!
+Invalid event name: অবৈধ ইভেন্টের নাম
+Invalid description: অবৈধ বিবরণ
+description is empty: বিবরণ খালি
+Invalid phone number: অবৈধ ফোন নম্বর
+Address is empty: ঠিকানা খালি
+Name is empty: নাম খালি
+date begin format not valid !: তারিখ শুরুর বিন্যাস সঠিক নয়!
+date end format not valid !: তারিখ শেষ বিন্যাস সঠিক নয়!
+Enter a valid URL !!: একটি বৈধ URL লিখুন !!
+your position is not found !: আপনার অবস্থান পাওয়া যায়নি!
+This name is already exist !!: এই নাম ইতিমধ্যে বিদ্যমান !!
+event not created !!: ইভেন্ট তৈরি হয়নি !!
+event not found !!: ইভেন্ট পাওয়া যায়নি !!
+Event not specified !!: ইভেন্ট সুনির্দিষ্ট নয় !!
+no message to send: কোন বার্তা প্রেরণ করা নেই
+This operation is denied in demo mode: এই অপারেশনটি ডেমো মোডে অকেয়ান
+You don't have permission to do it!: আপনার এটি করার অনুমতি নেই!
+You have exceeded the maximum number of events: আপনি ইভেন্টের সর্বোচ্চ সংখ্যা অতিক্রান্ত করেছেন
+You have exceeded the maximum number of campaigns: আপনি ক্যাম্পেইনের সর্বোচ্চ সংখ্যা অতিক্রান্ত করেছেন
+You have exceeded the maximum number of stores: আপনি দোকানের সর্বোচ্চ সংখ্যা অতিক্রান্ত করেছেন
+Status not found: স্থিতি পাওয়া যায়নি
+This currency is already exist: এই মুদ্রা ইতিমধ্যে বিদ্যমান
+Please_select_store: দয়া করে দোকান নির্বাচন করুন
+mail_verification: মেইল যাচাইকরণ
+Type is not valid: ধরণ বৈধ নয়
+Campaign name is empty: ক্যাম্পেইনের নাম খালি
+Something wrong: কিছু ভুল হয়েছে
+Register id errors: রেজিস্টার আইডি ত্রুটি
+Date of begin is not valid: শুরুর তারিখ বৈধ নয়
+Offer id is messing: অফার আইডি বিচ্ছিন্ন
+Store id is not valid: দোকান আইডি বৈধ নয়
+Password is not valid: পাসওয়ার্ড বৈধ নয়
+Token isn t valid: টোকেন বৈধ নয়
+The password must be at least 6 characters: পাসওয়ার্ড কমপক্ষে 6 টি অক্ষর হতে হবে
+Reset error: রিসেট ত্রুটি
+Your login not exist or you have exceeded the limit of sending: আপনার লগইন অস্তিত্ব নেই বা আপনি প্রেরণের সীমা অতিক্রান্ত করেছেন
+Error (SenderId isn't valid!): ত্রুটি (প্রেরকের আইডি বৈধ নয়!)
+login or password are not valid: লগইন বা পাসওয়ার্ড বৈধ নয়
+Name field is empty: নামের ক্ষেত্র খালি
+Your email address is already existing !!: আপনার ইমেল ঠিকানা ইতিমধ্যে বিদ্যমান !!
+Your position is not specified or it is invalid: আপনার অবস্থান সুনির্দিষ্ট নয় বা অবৈধ
+Begin date is not valid: শুরুর তারিখ বৈধ নয়
+Name error: নামের ত্রুটি
+Email error: ইমেল ত্রুটি
+Test3: পরীক্ষা 3
+All notifications are received and viewed by users: সমস্ত বিজ্ঞপ্তি ব্যবহারকারীদের দ্বারা প্রাপ্ত এবং দেখা হয়
+All notifications are pushed to closer users: সমস্ত বিজ্ঞপ্তি নিকটবর্তী ব্যবহারকারীদের কাছে পুশ করা হয়
+have received the notification: বিজ্ঞপ্তি পেয়েছি
+Number max pushes per campaign: প্রতি প্রচারের সর্বোচ্চ সংখ্যা
+Information: তথ্য
+Maps api key: মানচিত্র এপিআই কী
+Firebase key: ফায়ারবেস কী
+Pseudo or Mail: খালি অথবা ইমেল
+To test the campaign in debug mode, you must be sure that at least one shop, event or offer is created: ডিবাগ মোডে ক্যাম্পেইন পরীক্ষা করতে, আপনার নিশ্চিত করতে হবে যে কমপক্ষে একটি দোকান, ইভেন্ট বা অফার তৈরি করা হয়েছে
+Please select a photo: দয়া করে একটি ফটো নির্বাচন করুন
+DeepLinkingIntro: ডিপলিংকস হল এমন একটি ধারণা যা ব্যবহারকারীদের ওয়েব এবং অ্যাপ্লিকেশনগুলি মধ্যে ভ্রমণ করতে সহায়ক। এটি মৌলিকভাবে ইউআরএল গুলি হয় যা ব্যবহারকারীকে অ্যাপ্লিকেশনের নির্দিষ্ট সামগ্রীতে সরাসরি নেভিগেট করে।
+grpac_add: যোগ
+grpac_edit: সম্পাদন করুন
+grpac_delete: মুছুন
+grpac_manage_group_access: গ্রুপ অ্যাক্সেস পরিচালনা করুন (অ্যাডমিন অ্যাক্সেস)
+grpac_manage_gallery: গ্যালারি পরিচালনা করুন
+grpac_push_campaigns: পুশ ক্যাম্পেইন পরিচালনা করুন
+grpac_manage_taxes: কর পরিচালনা করুন (অ্যাডমিন অ্যাক্সেস)
+grpac_display_transactions: লেনদেন প্রদর্শন (অ্যাডমিন অ্যাক্সেস)
+grpac_send_and_receive: বার্তা প্রেরণ এবং গ্রহণ করুন
+grpac_manage_messages: বার্তা পরিচালনা করুন (অ্যাডমিন অ্যাক্সেস)
+grpac_change_app_setting: অ্যাপ্লিকেশন সেটিং পরিবর্তন করুন (অ্যাডমিন অ্যাক্সেস)
+grpac_manage_currencies: মুদ্রা পরিচালনা করুন (অ্যাডমিন অ্যাক্সেস)
+grpac_config_payment: পেমেন্ট কনফিগার করুন
+grpac_dashboard_accessibility: ড্যাশবোর্ড অ্যাক্সেসিবিলিটি
+grpac_manage_campaign_config: ক্যাম্পেইন কনফিগারেশন পরিচালনা করুন (অ্যাডমিন অ্যাক্সেস)
+grpac_manage_modules: মডিউল ম্যানেজার (অ্যাডমিন অ্যাক্সেস)
+grpac_manage_stores: দোকান পরিচালনা করুন (অ্যাডমিন অ্যাক্সেস)
+grpac_manage_offers: অফার পরিচালনা করুন (অ্যাডমিন অ্যাক্সেস)
+grpac_manage_events: ইভেন্ট পরিচালনা করুন (অ্যাডমিন অ্যাক্সেস)
+grpac_manage_campaigns: ক্যাম্পেইন পরিচালনা করুন (অ্যাডমিন অ্যাক্সেস)
+grpac_manage_users: ব্যবহারকারী পরিচালনা করুন (অ্যাডমিন অ্যাক্সেস)
+grpac_user_setting: ব্যবহারকারী কনফিগ (অ্যাডমিন অ্যাক্সেস)
+grpac_modules_manager: মডিউল পরিচালনা করুন (অ্যাডমিন অ্যাক্সেস)
+nbr_offers_monthly: মাসিক অফারের সর্বোচ্চ সংখ্যা
+nbr_stores: মাসিক দোকানের সর্বোচ্চ সংখ্যা
+push_campaign_auto: অটো পুশ বিজ্ঞপ্তিগুলি
+nbr_campaigns_monthly: মাসিক ক্যাম্পেইনের সর্বোচ্চ সংখ্যা
+nbr_events_monthly: মাসিক ইভেন্টের সর্বোচ্চ সংখ্যা
+check_for_chat: এই ক্ষেত্রটি চেক করে আপনি এই দোকানের জন্য চ্যাট সুবিধা সক্ষম করছেন
+enable_chat: চ্যাট সক্ষম করুন
+Platforms: প্ল্যাটফর্মস
+Getting Option: পড়তে ভালো
+All: সব
+Nearby users: নিকটবর্তী ব্যবহারকারীগণ
+Random: এলোমেলো
+PayPal: পেপাল
+Stripe: স্ট্রাইপ
+Pay using your Credit Card: Visa, MasterCard: আপনার ক্রেডিট কার্ড ব্যবহার করুন: ভিসা, মাস্টারকার্ড
+Razorpay: রেজারপে
+Pay using razorpay.com: razorpay.com ব্যবহার করে পেমেন্ট করুন
+Credit Card & Debit Card: ক্রেডিট কার্ড এবং ডেবিট কার্ড
+Account without verification: যাচাই ছাড়া অ্যাকাউন্ট
+We've sent mail verification to your mailbox: আমরা আপনার মেইলবক্সে মেল যাচাইকরণ প্রেরণ করেছি
+Pay using PayPal.com: PayPal.com ব্যবহার করে পেমেন্ট করুন
+Flutterwave: ফ্লাটারওয়েভ
+Apple Pay: আপেল পে
+Store & Location: দোকান এবং অবস্থান
+WebApp: ওয়েবঅ্যাপ
+Credit Card: ক্রেডিট কার্ড
+Cash payment: ক্যাশ পেমেন্ট
+Campaign & Notification: ক্যাম্পেইন এবং বিজ্ঞপ্তি
+Confirmation!: নিশ্চিতকরণ!
+Apply: প্রয়োগ করুন
+Alert!: সতর্কবার্তা!
+DONE: সাম্প্রতিক
+New update!: নতুন আপডেট!
+New update available: নতুন আপডেট উপলব্ধ
+Update now: এখনই আপডেট করুন
+Dashboard config: ড্যাশবোর্ড কনফিগার
+Mail Config: মেইল কনফিগার
+Demo Users: ডেমো ব্যবহারকারী
+Login to start your session: আপনার সেশন শুরু করতে লগইন করুন
+Success!: সাফল্য!
+Login or email: লগইন বা ইমেল
+Forgot password ?: পাসওয়ার্ড ভুলে গেছেন?
+Don't have an account yet?: এখনো একটি অ্যাকাউন্ট নেই?
+Sign up: সাইন আপ করুন
+login_box_title: লগইন বক্সের শিরোনাম
+login_box_description: লগইন বক্সের বিবরণ
+Input invalid: ইনপুট অবৈধ
+Mail Sent: মেইল প্রেরিত
+You select invalid template!: আপনি অবৈধ টেমপ্লেট নির্বাচন করেছেন!
+Total_offers: মোট অফারগুলি
+Total_events: মোট ইভেন্টগুলি
+Total_users: মোট ব্যবহারকারীগণ
+Total_stores: মোট দোকানগুলি
+Total_discussions: মোট আলোচনাগুলি
+Total_campaigns: মোট ক্যাম্পেইনগুলি
+Dashboard: ড্যাশবোর্ড
+Your are connected as admin: আপনি অ্যাডমিন হিসেবে সংযুক্ত
+Timezone: সময় অঞ্চল
+-- Select timezone: -- সময় অঞ্চল নির্বাচন করুন
+Quick search...: দ্রুত অনুসন্ধান...
+Manage Stores: দোকানগুলি পরিচালনা করুন
+Add new: নতুন যোগ করুন
+Store Options: দোকান বিকল্প
+Checkout Fields: চেকআউট ক্ষেত্র
+My Offers: আমার অফারগুলি
+Participants: অংশগ্রহণকারীগণ
+Reservations: রেজার্ভেশনগুলি
+All reservations: সমস্ত রেজার্ভেশনগুলি
+My reservations: আমার রেজার্ভেশনগুলি
+My bookings: আমার বুকিংগুলি
+Messages: বার্তা
+Manage Users: ব্যবহারকারীগণ পরিচালনা করুন
+Users: ব্যবহারকারীগণ
+Group Access: গ্রুপ অ্যাক্সেস
+Payment: পেমেন্ট
+Invoices: চালানগুলি
+Transactions: লেনদেন
+Payment config: পেমেন্ট কনফিগ
+Taxes: কর
+Banners: ব্যানারগুলি
+All Banners: সমস্ত ব্যানারগুলি
+Payouts: পেআউটগুলি
+Media: মিডিয়া
+CMS & Template: সিএমএস এবং টেমপ্লেট
+Template: টেমপ্লেট
+Manage pages: পৃষ্ঠা পরিচালনা করুন
+Manage menu: মেনু পরিচালনা করুন
+Global config: গ্লোবাল কনফিগ
+API Config: এপিআই কনফিগ
+Deep Linking: ডিপ লিঙ্কিং
+Cronjob: ক্রোনজব
+User Settings: ব্যবহারকারী সেটিংস
+Google Maps Api: গুগল ম্যাপস এপিআই
+Subscription: সাবস্ক্রিপশন
+Languages: ভাষা
+Modules Manager: মডিউল ম্যানেজার
+Show all: সব দেখান
+Event: ইভেন্ট
+User: ব্যবহারকারী
+Discussions: আলোচনা
+Campaign: ক্যাম্পেইন
+Next: পরবর্তী
+All rights reserved.: সমস্ত অধিকার সংরক্ষিত।
+Enable HTML editor: এইচটিএমএল এডিটর সক্ষম করুন
+Back: পিছনে
+Loading: লোড হচ্ছে
+Add New Module: নতুন মডিউল যোগ করুন
+Enable all: সব সক্ষম করুন
+Disable all: সব অক্ষম করুন
+Install all: সব ইনস্টল করুন
+Uninstall all: সব আনইনস্টল করুন
+Upgrade all: সমস্ত আপগ্রেড করুন
+Version: সংস্করণ
+Disable: অক্ষম করুন
+Installing...: ইনস্টল হচ্ছে...
+Install: ইনস্টল করুন
+Installed: ইনস্টল হয়েছে
+Upgrade: আপগ্রেড করুন
+Enabling...: সক্ষম করা হচ্ছে...
+Enable: সক্ষম করুন
+Disabling...: অক্ষম করা হচ্ছে...
+Upgrading...: আপগ্রেড হচ্ছে...
+Upgraded: আপগ্রেড হয়েছে
+Uninstalling...: আনইনস্টল হচ্ছে...
+Uninstall: আনইনস্টল করুন
+Uninstalled: আনইনস্টল হয়েছে
+Create new store: নতুন দোকান তৈরি করুন
+Date: তারিখ
+Start: শুরু
+End: শেষ
+End after: পরে শেষ
+years: বছর
+months: মাস
+days: দিন
+hours: ঘন্টা
+minutes: মিনিট
+seconds: সেকেন্ড
+Started: শুরু হয়েছে
+Are you sure you want to delete: আপনি কি নিশ্চিত যে আপনি মুছে ফেলতে চান
+APP Client APIs: অ্যাপ ক্লায়েন্ট এপিআই
+BASE_URL: বেস ইউআরএল
+Enter: প্রবেশ করুন
+BASE_URL_API: বেস ইউআরএল এপিআই
+CRYPTO_KEY: ক্রিপ্টো কী
+App Licences: অ্যাপ লাইসেন্স
+You don't have permission to server try later!: আপনি সার্ভারের অনুমতি নেই, পরে চেষ্টা করুন!
+All Stores: সমস্ত দোকান
+Featured: বৈশিষ্ট্যযুক্ত
+Shadowing: ছায়াবিন্দুকরণ
+Coffee: কফি
+Services: পরিষেবাগুলি
+Beauty: সৌন্দর্য
+Foods: খাবার
+Restaurant: রেস্টুরেন্ট
+Gym: জিম
+Enable API: এপিআই সক্ষম করুন
+To be able to make iOS devices as target, you should verify your iOS purchase ID: iOS ডিভাইসগুলি লক্ষ্য বিবেচনা করতে, আপনার iOS ক্রয় আইডি যাচাই করতে হবে
+Settings: সেটিংস
+Demo Settings: ডেমো সেটিংস
+Me: আমি
+cod: ক্যাশে প্রদান করুন
+Filter: ফিল্টার
+Order ID: অর্ডার আইডি
+Client: ক্রেতা
+Business/Owner: ব্যবসায়ী / মালিক
+Subtotal: উপমোট
+Export: রপ্তানি
+Export Data: ডেটা রপ্তানি করুন
+Columns: কলাম
+Exporting...: রপ্তানি করা হচ্ছে...
+Edit: সম্পাদনা করুন
+Filter order: আদেশ ফিল্টার করুন
+Business Owner: ব্যবসায়ী মালিক
+Select owner: মালিক নির্বাচন করুন
+Select date: তারিখ নির্বাচন করুন
+Order Status: অর্ডারের অবস্থা
+Select: নির্বাচন করুন
+Limit: সীমা
+Create new offer: নতুন অফার তৈরি করুন
+Deal: চুক্তি
+Unpublished: অপ্রকাশিত
+Deal started: চুক্তি শুরু হয়েছে
+CMS: সিএমএস
+End shadow session and return to your session.: ছায়াবিন্দু সেশন শেষ করুন এবং আপনার সেশনে ফিরে আসুন।
+Your pack "FREE" has been expired!: আপনার প্যাক "ফ্রি" শেষ হয়ে গেছে!
+Renew: পুনর্নবীকরণ করুন
+or: অথবা
+Account: অ্যাকাউন্ট
+Billing: বিলিং
+view more: আরো দেখুন
+Pick Pack: প্যাক চয়ন করুন
+FREE: বিনামূল্যে
+Duration: সময়কাল
+1 Month: 1 মাস
+Show more: আরও দেখাও
+Subscribe Options: সাবস্ক্রাইব অপশনগুলি
+OK: ঠিক আছে
+month: মাস
+year: বছর
+1 Year: 1 বছর
+Your %s plan will expire after %s: আপনার %s পরিকল্পনা %s পর মেয়াদ শেষ হবে
+My Stores: আমার দোকানগুলি
+Clothes: পোষাক
+Hotels: হোটেল
+Jewelry: জুয়েলারি
+Others: অন্যান্য
+Technology: প্রযুক্তি
+Images & Gallery: ইমেজ এবং গ্যালারি
+Location: অবস্থান
+More: আরও
+Enter a valid URL with http or https: একটি বৈধ URL প্রবেশ করুন যা http বা https দ্বারা শুরু হয়েছে
+Video URL: ভিডিও এর URL
+the field only accepts links from YouTube videos, please make sure to copy the link from youtube as following : https://www.youtube.com/watch?v=IS1FNtggVTc: এই ফিল্ডটি কেবলমাত্র YouTube ভিডিও লিঙ্ক গ্রহণ করে, অনুগ্রহ করে নিশ্চিত হোন যে আপনি লিঙ্কটি ঠিকভাবে ইউটিউব থেকে কপি করেছেন : https://www.youtube.com/watch?v=IS1FNtggVTc
+Enter a valid youtube URL: একটি বৈধ YouTube URL প্রবেশ করুন
+Store photos: দোকান ফটো
+Select Images: চিত্রগুলি নির্বাচন করুন
+Uploaded files: আপলোড করা ফাইলগুলি
+Store gallery: দোকানের গ্যালারী
+Lat: ব্যাংককৃত ধ্রুবক
+Lng: দ্রাঘিমাংশ
+Services are grouped together, a group can have one choice or multiple choices, you can attach each service with a small description if necessary: সেবাগুলি একসাথে গ্রুপ করা হয়, একটি গ্রুপে একটি পছন্দ বা একাধিক পছন্দ থাকতে পারে, আপনি প্রয়োজন হলে প্রতিটি সেবাকে একটি ছোট বিবরণ দিয়ে সংযুক্ত করতে পারেন
+Create new services group: নতুন সেবা গ্রুপ তৈরি করুন
+option: বিকল্প
+Add option: বিকল্প যোগ করুন
+Create new Group: নতুন গ্রুপ তৈরি করুন
+Group: গ্রুপ
+Enter...: প্রবেশ করুন...
+Options type: অপশনের ধরণ
+one_option: একটি বিকল্প
+multi_options: একাধিক বিকল্প
+Update Group: গ্রুপ আপডেট করুন
+Update: আপডেট করুন
+Create new Service: নতুন সেবা তৈরি করুন
+Service title: সেবা শিরোনাম
+Price: মূল্য
+Update service: সেবা আপডেট করুন
+Opening time: খোলামেলা সময়
+monday: সোমবার
+Closing time: বন্ধের সময়
+tuesday: মঙ্গলবার
+wednesday: বুধবার
+thursday: বৃহস্পতিবার
+friday: শুক্রবার
+saturday: শনিবার
+sunday: রবিবার
+Enable chat feature for this store: এই দোকানের জন্য চ্যাট ফিচার সক্রিয় করুন
+Enable chat: চ্যাট সক্ষম করুন
+Enable booking feature for this store: এই দোকানের জন্য বুকিং ফিচার সক্রিয় করুন
+Enable booking: বুকিং সক্ষম করুন
+Photo: ফটো
+Update profile: প্রোফাইল আপডেট করুন
+Inbox: ইনবক্স
+Yes: হাঁ
+No: না
+You should know that you can sign all stores, events and products to another owner by selecting the owner from the list above: আপনাকে জানতে হবে যে আপনি সমস্ত দোকান, ইভেন্ট এবং প্রোডাক্টগুলি আরও একজন মালিকের নামে সাইন আপ করতে পারেন উপরের তালিকা থেকে মালিক নির্বাচন করে
+Apply and delete: প্রয়োগ এবং মুছে ফেলুন
+Payment settings: পেমেন্ট সেটিংস
+Payments methods: পেমেন্ট পদ্ধতিগুলি
+PayPal config: পেপাল কনফিগারেশন
+Stripe config: স্ট্রাইপ কনফিগারেশন
+Razorpay config: Razorpay কনফিগারেশন
+Flutterwave config: Flutterwave কনফিগারেশন
+Only on iOS: কেবলমাত্র iOS এ
+PayPal Config: পেপাল কনফিগারেশন
+How to get the Client key and secret key: ক্লায়েন্ট কী এবং সিক্রেট কী কিভাবে প্রাপ্ত করবেন
+Mode: মোড
+Client ID: ক্লায়েন্ট আইডি
+Secret ID: সিক্রেট আইডি
+Stripe Config: স্ট্রাইপ কনফিগারেশন
+How to get the Public key and secret key: পাবলিক কী এবং সিক্রেট কী কিভাবে প্রাপ্ত করবেন
+Publishable key: পাবলিশেবল কী
+Secret key: সিক্রেট কী
+Razorpay Config: Razorpay কনফিগারেশন
+How to get the Publishable key and secret key: পাবলিশেবল কী এবং সিক্রেট কী কিভাবে প্রাপ্ত করবেন
+Key ID: কী আইডি
+flutterwave Config: flutterwave কনফিগারেশন
+Payment Config: পেমেন্ট কনফিগারেশন
+Payment Currency: পেমেন্ট মুদ্রা
+You should select default currency and supported for the PayPal or other methods: You should select default currency and supported for the PayPal or other methods
+You don't have permission to server try later!xx: You don't have permission to server try later!xx
+You don't have permission to server try later!{"Host":"demo.webox360.win","X-Real-IP":"105.66.4.113","X-Forwarded-For":"105.66.4.113","X-Forwarded-Port":"443","X-Forwarded-Proto":"https","Connection":"close","date":"27-07-2022 20:29","Timezone":"Africa\/Casablanca","apiKey":"00-1","Language":"en","macadr":"2:0:0:44:55:66","Api-key-android":"API_ab372c373da0482258f3ccc12e080233","ipAddress":"value","token-0":"","token-1":"","Debug":"true","User-Agent":"Dalvik\/2.1.0 (Linux; U; Android 8.1.0; Android SDK built for x86 Build\/OSM1.180201.037)","Accept-Encoding":"gzip"}: You don't have permission to server try later!{"Host":"demo.webox360.win","X-Real-IP":"105.66.4.113","X-Forwarded-For":"105.66.4.113","X-Forwarded-Port":"443","X-Forwarded-Proto":"https","Connection":"close","date":"27-07-2022 20:29","Timezone":"Africa\/Casablanca","apiKey":"00-1","Language":"en","macadr":"2:0:0:44:55:66","Api-key-android":"API_ab372c373da0482258f3ccc12e080233","ipAddress":"value","token-0":"","token-1":"","Debug":"true","User-Agent":"Dalvik\/2.1.0 (Linux; U; Android 8.1.0; Android SDK built for x86 Build\/OSM1.180201.037)","Accept-Encoding":"gzip"}
+You don't have permission to server try later!{"Host":"demo.webox360.win","X-Real-IP":"105.66.4.113","X-Forwarded-For":"105.66.4.113","X-Forwarded-Port":"443","X-Forwarded-Proto":"https","Connection":"close","Content-Length":"151","date":"27-07-2022 20:29","Timezone":"Africa\/Casablanca","apiKey":"00-1","Language":"en","macadr":"2:0:0:44:55:66","Api-key-android":"API_ab372c373da0482258f3ccc12e080233","ipAddress":"value","token-0":"","token-1":"","Debug":"true","Content-Type":"application\/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Dalvik\/2.1.0 (Linux; U; Android 8.1.0; Android SDK built for x86 Build\/OSM1.180201.037)","Accept-Encoding":"gzip"}: You don't have permission to server try later!{"Host":"demo.webox360.win","X-Real-IP":"105.66.4.113","X-Forwarded-For":"105.66.4.113","X-Forwarded-Port":"443","X-Forwarded-Proto":"https","Connection":"close","Content-Length":"151","date":"27-07-2022 20:29","Timezone":"Africa\/Casablanca","apiKey":"00-1","Language":"en","macadr":"2:0:0:44:55:66","Api-key-android":"API_ab372c373da0482258f3ccc12e080233","ipAddress":"value","token-0":"","token-1":"","Debug":"true","Content-Type":"application\/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Dalvik\/2.1.0 (Linux; U; Android 8.1.0; Android SDK built for x86 Build\/OSM1.180201.037)","Accept-Encoding":"gzip"}
+You don't have permission to server try later!{"Host":"demo.webox360.win","X-Real-IP":"105.66.4.113","X-Forwarded-For":"105.66.4.113","X-Forwarded-Port":"443","X-Forwarded-Proto":"https","Connection":"close","Content-Length":"74","date":"27-07-2022 20:29","Timezone":"Africa\/Casablanca","apiKey":"00-1","Language":"en","macadr":"2:0:0:44:55:66","Api-key-android":"API_ab372c373da0482258f3ccc12e080233","ipAddress":"value","token-0":"","token-1":"","Debug":"true","Content-Type":"application\/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Dalvik\/2.1.0 (Linux; U; Android 8.1.0; Android SDK built for x86 Build\/OSM1.180201.037)","Accept-Encoding":"gzip"}: You don't have permission to server try later!{"Host":"demo.webox360.win","X-Real-IP":"105.66.4.113","X-Forwarded-For":"105.66.4.113","X-Forwarded-Port":"443","X-Forwarded-Proto":"https","Connection":"close","Content-Length":"74","date":"27-07-2022 20:29","Timezone":"Africa\/Casablanca","apiKey":"00-1","Language":"en","macadr":"2:0:0:44:55:66","Api-key-android":"API_ab372c373da0482258f3ccc12e080233","ipAddress":"value","token-0":"","token-1":"","Debug":"true","Content-Type":"application\/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Dalvik\/2.1.0 (Linux; U; Android 8.1.0; Android SDK built for x86 Build\/OSM1.180201.037)","Accept-Encoding":"gzip"}
+You don't have permission to server try later!{"Host":"demo.webox360.win","X-Real-IP":"105.66.4.113","X-Forwarded-For":"105.66.4.113","X-Forwarded-Port":"443","X-Forwarded-Proto":"https","Connection":"close","Content-Length":"114","date":"27-07-2022 20:29","Timezone":"Africa\/Casablanca","apiKey":"00-1","Language":"en","macadr":"2:0:0:44:55:66","Api-key-android":"API_ab372c373da0482258f3ccc12e080233","ipAddress":"value","token-0":"","token-1":"","Debug":"true","Content-Type":"application\/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Dalvik\/2.1.0 (Linux; U; Android 8.1.0; Android SDK built for x86 Build\/OSM1.180201.037)","Accept-Encoding":"gzip"}: You don't have permission to server try later!{"Host":"demo.webox360.win","X-Real-IP":"105.66.4.113","X-Forwarded-For":"105.66.4.113","X-Forwarded-Port":"443","X-Forwarded-Proto":"https","Connection":"close","Content-Length":"114","date":"27-07-2022 20:29","Timezone":"Africa\/Casablanca","apiKey":"00-1","Language":"en","macadr":"2:0:0:44:55:66","Api-key-android":"API_ab372c373da0482258f3ccc12e080233","ipAddress":"value","token-0":"","token-1":"","Debug":"true","Content-Type":"application\/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Dalvik\/2.1.0 (Linux; U; Android 8.1.0; Android SDK built for x86 Build\/OSM1.180201.037)","Accept-Encoding":"gzip"}
+You don't have permission to server try later!{"Host":"demo.webox360.win","X-Real-IP":"105.66.4.113","X-Forwarded-For":"105.66.4.113","X-Forwarded-Port":"443","X-Forwarded-Proto":"https","Connection":"close","Content-Length":"77","date":"27-07-2022 20:29","Timezone":"Africa\/Casablanca","apiKey":"00-1","Language":"en","macadr":"2:0:0:44:55:66","Api-key-android":"API_ab372c373da0482258f3ccc12e080233","ipAddress":"value","token-0":"","token-1":"","Debug":"true","Content-Type":"application\/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Dalvik\/2.1.0 (Linux; U; Android 8.1.0; Android SDK built for x86 Build\/OSM1.180201.037)","Accept-Encoding":"gzip"}: You don't have permission to server try later!{"Host":"demo.webox360.win","X-Real-IP":"105.66.4.113","X-Forwarded-For":"105.66.4.113","X-Forwarded-Port":"443","X-Forwarded-Proto":"https","Connection":"close","Content-Length":"77","date":"27-07-2022 20:29","Timezone":"Africa\/Casablanca","apiKey":"00-1","Language":"en","macadr":"2:0:0:44:55:66","Api-key-android":"API_ab372c373da0482258f3ccc12e080233","ipAddress":"value","token-0":"","token-1":"","Debug":"true","Content-Type":"application\/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Dalvik\/2.1.0 (Linux; U; Android 8.1.0; Android SDK built for x86 Build\/OSM1.180201.037)","Accept-Encoding":"gzip"}
+You don't have permission to server try later!{"Host":"demo.webox360.win","X-Real-IP":"105.66.4.113","X-Forwarded-For":"105.66.4.113","X-Forwarded-Port":"443","X-Forwarded-Proto":"https","Connection":"close","Content-Length":"88","date":"27-07-2022 20:29","Timezone":"Africa\/Casablanca","apiKey":"00-1","Language":"en","macadr":"2:0:0:44:55:66","Api-key-android":"API_ab372c373da0482258f3ccc12e080233","ipAddress":"value","token-0":"","token-1":"","Debug":"true","Content-Type":"application\/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Dalvik\/2.1.0 (Linux; U; Android 8.1.0; Android SDK built for x86 Build\/OSM1.180201.037)","Accept-Encoding":"gzip"}: You don't have permission to server try later!{"Host":"demo.webox360.win","X-Real-IP":"105.66.4.113","X-Forwarded-For":"105.66.4.113","X-Forwarded-Port":"443","X-Forwarded-Proto":"https","Connection":"close","Content-Length":"88","date":"27-07-2022 20:29","Timezone":"Africa\/Casablanca","apiKey":"00-1","Language":"en","macadr":"2:0:0:44:55:66","Api-key-android":"API_ab372c373da0482258f3ccc12e080233","ipAddress":"value","token-0":"","token-1":"","Debug":"true","Content-Type":"application\/x-www-form-urlencoded; charset=UTF-8","User-Agent":"Dalvik\/2.1.0 (Linux; U; Android 8.1.0; Android SDK built for x86 Build\/OSM1.180201.037)","Accept-Encoding":"gzip"}
+xxxxxxxxxxxxx: xxxxxxxxxxxxx
+API_ab372c373da0482258f3ccc12e080233: API_ab372c373da0482258f3ccc12e080233
+paid: পেইড
+Amount: পরিমাণ
+Method: পদ্ধতি
+No payouts: কোন পেআউট
+Unpaid: অপেইড
+Paid: পেইড
+Tax: কর
+Items: আইটেমস
+Print: প্রিন্ট
+Cash on delivery: ক্যাশ অন ডেলিভারি
+Balance: ব্যালেন্স
+Remaining account credits: অবশিষ্ট অ্যাকাউন্ট ক্রেডিট
+Add Balance: ব্যালেন্স যোগ করুন
+Pay online: অনলাইনে পেমেন্ট করুন
+Payment with cash: ক্যাশে পেমেন্ট
+Paid invoices: পেইড চালান
+Add Balance!: ব্যালেন্স যোগ করুন!
+Custom amount: কাস্টম পরিমাণ
+Enter amount: পরিমাণ প্রবেশ করুন
+Booking Detail: বুকিং বিশদ
+Decline: অস্বীকার করা
+Booking: বুকিং
+Booking date: বুকিং তারিখ
+Edit payment: পেমেন্ট সম্পাদনা করুন
+Client Information: ক্লায়েন্ট তথ্য
+Service(s): সেবা (গুলি)
+Price per item: প্রতি আইটেমের মূল্য
+SUBTOTAL: উপমোট
+TOTAL: মোট
+Location Detail: অবস্থানের বিশদ
+Edit Status: স্থিতি সম্পাদনা করুন
+Select Order status: আদেশের স্থিতি নির্বাচন করুন
+pending: মুলতুবি
+confirmed: নিশ্চিত
+canceled: বাতিল করা
+Include a message to the client: ক্লায়েন্টের একটি বার্তা অন্তর্ভুক্ত করুন
+Enter message...: বার্তা প্রবেশ করুন...
+CANCEL: বাতিল করুন
+SAVE: সংরক্ষণ করুন
+Edit Payment: পেমেন্ট সম্পাদনা করুন
+Select status: স্থিতি নির্বাচন করুন
+unpaid: অপেইড
+cod_paid: ক্যাশ পেইড
+refunded: ফেরত দেওয়া
+Label is not valid: লেবেলটি বৈধ নয়
+After creating the store, you can edit the store detail to add the more services: দোকান তৈরি করার পরে, আপনি দোকানের বিশদ সম্পাদনা করতে বিশেষজ্ঞ সেবা যোগ করতে পারেন
+Store_id is not valid: দোকানের আইডি বৈধ নয়
+Option name is not valid: অপশনের নাম বৈধ নয়
+Opening time enabled: খোলামেলা সময় সক্ষম
+Module: মডিউল
+All campaigns: সমস্ত অভিযান
+Pushed campaigns: পুশ করা অভিযান
+Completed campaigns: সম্পন্ন অভিযান
+The campaign is pushed to users: অভিযানটি ব্যবহারকারীদের পুশ করা হয়েছে
+Report: প্রতিবেদন
+Store detail: দোকানের বিশদ
+Select Store: দোকান নির্বাচন করুন
+Manage Pages: পৃষ্ঠাগুলি পরিচালনা করুন
+Pages: পৃষ্ঠা
+ID: আইডি
+Slug: স্লাগ
+New payout: নতুন পেআউট
+Payment method: পেমেন্ট পদ্ধতি
+Bank: ব্যাংক
+Cash: ক্যাশ
+Payment Status: পেমেন্ট স্থিতি
+Processing: প্রসেসিং
+Save Payout: পেআউট সংরক্ষণ করুন
+Logo: লোগো
+Enable default front-end: ডিফল্ট ফ্রন্ট-এন্ড সক্ষম করুন
+Number uploaded images per stores & events: প্রতি দোকান এবং ইভেন্ট প্রতি আপলোড করা চিত্রের সংখ্যা
+-- Languages: -- ভাষা
+set this command in your cronjob: এই কমান্ডটি আপনার ক্রঞ্জবাঁকে সেট করুন
+Notification agreement: বিজ্ঞপ্তি চুক্তি
+By using this option, will be able to ask users if they want receive notification: এই অপশনটি ব্যবহার করে, ব্যবহারকারীদের প্রশ্ন করতে পারবেন তাদের প্রস্তুতি চায় কি না
+Enable SMTP SERVER: SMTP সার্ভার সক্ষম করুন
+SMTP Protocol: SMTP প্রোটোকল
+SMTP Host: SMTP হোস্ট
+SMTP Port: SMTP পোর্ট
+SMTP user: SMTP ব্যবহারকারী
+SMTP pass: SMTP পাস
+Report email: প্রতিবেদন ইমেল
+No-reply email: ইমেলের জবাব না
+Type & Subscription: প্রকার এবং সাবস্ক্রিপশন
+Default Group Access Registration: ডিফল্ট গ্রুপ অ্যাক্সেস রেজিস্ট্রেশন
+Associate a user to the access group on registration: নিবন্ধনে একটি ব্যবহারকারীকে অ্যাক্সেস গ্রুপে সংস্থাপিত করুন
+Select default type: ডিফল্ট প্রকার নির্বাচন করুন
+User Mobile Default Group Access: ব্যবহারকারী মোবাইল ডিফল্ট গ্রুপ অ্যাক্সেস
+Associate a user to the access group on creating new account from mobile app: মোবাইল অ্যাপ্লিকেশন থেকে নতুন অ্যাকাউন্ট তৈরি করার সময় ব্যবহারকারীকে অ্যাক্সেস গ্রুপে সংস্থাপিত করুন
+Select type: প্রকার নির্বাচন করুন
+Limit a user to manage a certain amount of content on the dashboard: ব্যবহারকারীকে ড্যাশবোর্ডে একটি নির্দিষ্ট পরিমাণের কন্টেন্ট পরিচালনা করার সীমা সমূহ
+Offers allowed monthly: প্রতি মাসে অফার অনুমোদিত
+( -1 Unlimited ): ( -1 সীমাহীন )
+Events Allowed Monthly: প্রতি মাসে ইভেন্টগুলি অনুমোদিত
+Number stores allowed: অনুমোদিত দোকানের সংখ্যা
+Push Auto Campaigns: অটো পুশ ক্যাম্পেইন
+Campaigns allowed monthly: প্রতি মাসে ক্যাম্পেইন অনুমোদিত
+Mail & Registration: মেইল এবং নিবন্ধন
+You can customize the mail template inside this file "views/mailing/templates/emailconfirm.html": আপনি এই ফাইল "views/mailing/templates/emailconfirm.html" এর ভিতরে মেইল টেমপ্লেটটি কাস্টমাইজ করতে পারেন
+Enable user (owner) registration: ব্যবহারকারী (মালিক) নিবন্ধন সক্ষম করুন
+Phone verification (MobileUser): ফোন যাচাই (মোবাইল ব্যবহারকারী)
+Options: অপশন
+Disabled Featured: অক্ষম বৈশিষ্ট্যযুক্ত
+Make it as featured: এটি বৈশিষ্ট্যযুক্ত করুন
+Your name is invalid! please insert your full name: আপনার নাম অবৈধ! আপনার পুরো নাম লিখুন
+Forget Password: পাসওয়ার্ড ভুলে গেছেন
+Log In: লগ ইন
+Upgrade your account: আপনার অ্যাকাউন্ট আপগ্রেড করুন
+Create page: পাতা তৈরি করুন
+Create new page: নতুন পেজ তৈরি করুন
+Content: বিষয়বস্তু
+Add & Publish: যোগ করুন এবং প্রকাশ করুন
+Load: বোঝা
+Preview: পূর্বরূপ
+Original: আসল
+Add new banner: নতুন ব্যানার যোগ করুন
+Custom fields: অস্ত্রোপচার
+Add new Checkout Fields: নতুন চেকআউট ক্ষেত্র যোগ করুন
+Label: লেবেল
+Are you sure to do this operation?: আপনি এই অপারেশন করতে নিশ্চিত?
+Taxes settings: ট্যাক্স সেটিংস
+Tax Config: ট্যাক্স কনফিগারেশন
+Default Tax: ডিফল্ট ট্যাক্স
+Percent: সাম্প্রতিক
+No Taxes: কোন ট্যাক্স নেই
+Add New Tax: নতুন ট্যাক্স যোগ করুন
+VAT, TVA ...: ভ্যাট, ভ্যাট...
+Value: মান
+10%, 20%: 0%, 20%
+Add Tax: ট্যাক্স যোগ করুন
+Business: ব্যবসা
+Edit user information: ব্যবহারকারী তথ্য সম্পাদন করুন
+Full name: পুরো নাম
+Phone: ফোন
+Change Password: পাসওয়ার্ড পরিবর্তন করুন
+New password: নতুন পাসওয়ার্ড
+User type: ব্যবহারকারীর ধরণ
+Consumption: খরচ
+Subscription & Plan: সাবস্ক্রিপশন এবং প্ল্যান
+Update running plan: চলমান পরিকল্পনা আপডেট করুন
+Last Invoice: সর্বশেষ চালান
+InvoiceID: চালান আইডি
+Last Transaction: সর্বশেষ লেনদেন
+Pack Confirmation: প্যাক নিশ্চিতকরণ
+Confirm & Save: নিশ্চিত করুন এবং সংরক্ষণ করুন
+Checkout: চেকআউট
+Pay using flutterwave.com: flutterwave.com ব্যবহার করে পেমেন্ট করুন
+Pack - FREE: প্যাক - ফ্রি
+Archive: আর্কাইভ
+Campaign Report Last 24 Hours: ক্যাম্পেইন রিপোর্ট সর্বশেষ ২৪ ঘন্টা
+Notifications delivered: বিজ্ঞপ্তি প্রেরিত
+Notifications viewed: বিজ্ঞপ্তি দেখা হয়েছে
+Campaign Report Last Week: ক্যাম্পেইন রিপোর্ট সর্বশেষ সপ্তাহ
+Campaign Report Last 15 days: ক্যাম্পেইন রিপোর্ট সর্বশেষ ১৫ দিন
+Notifications are viewed: বিজ্ঞপ্তিগুলি দেখা হয়েছে
+Notifications are delivered: বিজ্ঞপ্তিগুলি প্রেরিত হয়েছে
+offer: অফার
+event: ইভেন্ট
+store: স্টোর
+Text: পাঠ্য
+Notification preview: বিজ্ঞপ্তি পূর্বরূপ
+Notification title: বিজ্ঞপ্তির শিরোনাম
+Notification text: বিজ্ঞপ্তির পাঠ্য
+Sign Up: সাইন আপ
+Code: কোড
+Rate: হার
+Format Decimals: ফরম্যাট দশমিক
+Decimal Point: দশমিক বিন্দু
+Thousand Separator: হাজার বিভাজক
+Currency rate: মুদ্রার হার
+Currency: মুদ্রা
+What is the deep linking?: ডিপ লিঙ্কিং কি?
+Deep Linking Configuration: ডিপ লিঙ্কিং কনফিগারেশন
+Host Name: হোস্টের নাম
+Path Prefix for store: দোকানের জন্য পাথ উপসর্গ
+Path Prefix for product: পণ্যের জন্য পাথ উপসর্গ
+Path Prefix for event: ইভেন্টের জন্য পাথ উপসর্গ
+Maps API: মানচিত্র API
+   Select dashboard maps API :ড্যাশবোর্ড মানচিত্র API নির্বাচন করুন
+   Here Maps API:এখানে মানচিত্র API
+Here maps app ID: এখানে ম্যাপ অ্যাপ আইডি
+Here maps app Code: এখানে ম্যাপ অ্যাপ কোড
+Google Maps API: Google Maps API
+Google maps app ID: গুগল ম্যাপ অ্যাপ আইডি
+Google places app ID: গুগল প্লেস অ্যাপ আইডি
+Pack Manager: প্যাক ম্যানেজার
+Packs: প্যাক
+Subscription Config: সাবস্ক্রিপশন কনফিগারেশন
+Default Group Access: ডিফল্ট গ্রুপ অ্যাক্সেস
+Trial: বিচার
+Recommended: প্রস্তাবিত
+Free: বিনামূল্যে
+Days: দিন
+View: দেখুন
+EDIT Pack: প্যাক সম্পাদনা করুন
+Subscription config: সাবস্ক্রিপশন কনফিগারেশন
+Pricing & Duration: মূল্য এবং সময়কাল
+Price monthly: মাসিক মূল্য
+Month: মাস
+Price yearly: বার্ষিক মূল্য
+Year: বছর
+Free Pack: ফ্রি প্যাক
+Trial Period (days): পরীক্ষার সময়কাল (দিন)
+Other options: অন্যান্য অপশন
+Link a custom group access with pack: প্যাকের সাথে একটি কাস্টম গ্রুপ অ্যাক্সেস লিঙ্ক করুন
+When the user choose a pack, will be linked with selected group access automatically: ব্যবহারকারী যখন একটি প্যাক বেছে নেয়, তখন স্বয়ংক্রিয়ভাবে নির্বাচিত গ্রুপ অ্যাক্সেসের সাথে লিঙ্ক করা হবে
+Select Group Access: গ্রুপ অ্যাক্সেস নির্বাচন করুন
+Order: অর্ডার
+Visible to the clients: ক্লায়েন্টদের কাছে দৃশ্যমান
+Add New: নতুন যোগ করুন
+Add new Language: নতুন ভাষা যোগ করুন
+Language Code: ভাষা কোড
+Language Name: ভাষার নাম
+Language Direction: ভাষার দিকনির্দেশ
+LTR: LTR
+RTL: RTL
+Icon:
+Color:
+Pay using apple.com:
+Item (s): Item (s)
+Go to manage the boking: Go to manage the boking
+Payment done: Payment done
+Payment successful!: Payment successful!
+Your payment was successful!: Your payment was successful!
+Go to home: Go to home
+SuperAdmin: SuperAdmin
+MobileUser: MobileUser
+BusinessOwner: BusinessOwner
+Load More: Load More
+Type Message ...: Type Message ...
+Send: Send
+Prev: Prev
+Cronjob Paths: Cronjob Paths
+All Modules: All Modules
+By setting up the main url in cronjob, all modules cronjob will exectue one time: By setting up the main url in cronjob, all modules cronjob will exectue one time
+Execute manually: Execute manually
+How to setup cronjob in your server?: How to setup cronjob in your server?
+Reset Password: Reset Password
+Save password: Save password
+Bill: বিল
+Price/Unit: দামের একক
+Qty: পরিমাণ
+PAID AMOUNT: দেওয়া পরিমাণ
+Dashboard Color: ড্যাশবোর্ড রঙ
+Upload limitation: আপলোড সীমা
+Crypto_key: ক্রিপ্টো কী
+Default_language: ডিফল্ট ভাষা
+Number_max_of_stores: স্টোর সর্বাধিক সংখ্যা
+Number_events_max_monthly: প্রতি মাসে সর্বাধিক ইভেন্ট সংখ্যা
+Number campaigns max monthly: প্রতি মাসে সর্বাধিক ক্যাম্পেইন সংখ্যা
+Number_offers_max_monthly: প্রতি মাসে সর্বাধিক অফার সংখ্যা
+User_config: ব্যবহারকারী কনফিগ
+App_name: অ্যাপ নাম
+Default_email: ডিফল্ট ইমেল
+Default _anguage: ডিফল্ট ভাষা
+Add_new_currency: নতুন মুদ্রা যোগ করুন
+Language: ভাষা
+Without_validation_by_admin: অ্যাডমিন দ্বারা যাচাই ছাড়া
+Push_campaign_auto: পুশ ক্যাম্পেইন অটো
+Number_max_pushes_per_campaign: প্রতি ক্যাম্পেইনে সর্বাধিক পুশ সংখ্যা
+Upload new module: নতুন মডিউল আপলোড করুন
+Select File: নথি নির্বাচন
+Moving & Unzipping...: সরানো এবং আনজিপ করা হচ্ছে...
+Successful!: সফল!
+Edit payout: Edit payout
+No Message: No Message
+Edit Offer: অফার সম্পাদনা করুন
+Featured Options: বৈশিষ্ট্যযুক্ত বিকল্প
+Pricing & Offer value: মূল্য এবং অফার মান
+Select Type: প্রকার নির্বাচন করুন
+Offer price: প্রস্তাব মূল্য
+Enter price of your offer: আপনার অফারের মূল্য লিখুন
+Deal Option: ডিল অপশন
+Make as a deal: একটি চুক্তি হিসাবে করুন
+Customize in all languages: সব ভাষায় কাস্টমাইজ করুন
+Add new custom fields: নতুন কাস্টম ক্ষেত্র যোগ করুন
+What's the purpose of using custom fields in my app ?: আমার অ্যাপে কাস্টম ক্ষেত্র ব্যবহার করার উদ্দেশ্য কি?
+this will allow you to request more information from your customer during the validation of the order, eg email, date of availability, number of people ... etc:
+Add field: এটি আপনাকে অর্ডারের বৈধতার সময় আপনার গ্রাহকের কাছ থেকে আরও তথ্যের অনুরোধ করার অনুমতি দেবে, যেমন ইমেল, উপলব্ধতার তারিখ, লোকের সংখ্যা ... ইত্যাদি:
+   ক্ষেত্র যোগ করুন
+Add new Banner: নতুন ব্যানার যোগ করুন
+Date_end field is not valid!: Date_end field is not valid!Group Accesses: গ্রুপ অ্যাক্সেস
+Access to the group will be removed only if no account is linked: গ্রুপ এক্সেস চলে যাবে শুধুমাত্র যদি কোনও অ্যাকাউন্ট সংযুক্ত না থাকে
+Add New Group Access: নতুন গ্রুপ অ্যাক্সেস যোগ করুন
+Module Name: মডিউল নাম
+Setting: সেটিং
+Pack: প্যাক
+User: ব্যবহারকারী
+Gallery: গ্যালারি
+Category: ক্যাটেগরি
+Payment: পেমেন্ট
+Enable billing: বিলিং সক্ষম করুন
+Campaign: ক্যাম্পেইন
+Messenger: মেসেঞ্জার
+Manage participants: প্রবেশকারী ব্যক্তিদের পরিচালনা করুন
+Modules manager: মডিউল ম্যানেজার
+Nstranslator: Nstranslator
+Manage: ম্যানেজ করুন
+Manage checkout fields: চেকআউট ফিল্ডস পরিচালনা করুন
+Nsbanner: Nsbanner
+Booking: বুকিং
+Manage booking: বুকিং পরিচালনা করুন
+Manage booking config: বুকিং কনফিগ পরিচালনা করুন
+Exim_tool: Exim_tool
+Export Tool Manager: এক্সপোর্ট টুল ম্যানেজার
+CMS: সিএমএস
+Manage pages: পেজস পরিচালনা করুন
+Manage menu: মেনু পরিচালনা করুন
+Manage links: লিঙ্ক পরিচালনা করুন
+Payout: পেআউট
+Manage payouts: পেআউট পরিচালনা করুন
+Vendor payouts: ভেন্ডর পেআউট
+Uploader: আপলোডার
+Manage media: মিডিয়া পরিচালনা করুন
+Enter name: নাম লিখুন
+Add Group Access: গ্রুপ অ্যাক্সেস যোগ করুন
+Connection Informations: সংযোগ তথ্য
+Subscription Pack: সাবস্ক্রিপশন প্যাক
+Select pack: প্যাক নির্বাচন করুন
+Edit event: ইভেন্ট সম্পাদনা করুন
+update: হালনাগাদ
+Add new Pack: নতুন প্যাক যোগ করুন
+Customize user subscription config: ব্যবহারকারী সাবস্ক্রিপশন কনফিগারেশন কাস্টমাইজ করুন
+Link a custom group access with this pack: এই প্যাকের সাথে একটি কাস্টম গ্রুপ অ্যাক্সেস লিঙ্ক করুন
+Key: চাবি
+You will save: আপনি সংরক্ষণ করবেন
+monthly: মাসিক
+Report content: তথ্য রিপোর্ট করুন
+Activated successfully: সফলভাবে সক্রিয় করা হয়েছে
+Your account has been activated successfully, you can now use your account by taking advantage of all available access.: আপনার অ্যাকাউন্টটি সফলভাবে সক্রিয় করা হয়েছে, এখন আপনি সকল উপলব্ধ অ্যাক্সেস ব্যবহার করে আপনার অ্যাকাউন্ট ব্যবহার করতে পারেন।
+Clear filter: ফিল্টার সাফ করুন
+Credit or debit card: ক্রেডিট অথবা ডেবিট কার্ড
+Pay with credit or debit card by using stripe.com: stripe.com ব্যবহার করে ক্রেডিট অথবা ডেবিট কার্ড দিয়ে প্রদান করুন
+Submit Payment: পেমেন্ট জমা দিন
+Pay when you receive your item(s): আপনি আপনার আইটেম (গুলি) পেয়ে যখন প্রদান করতে পারেন
+Table reservation: টেবিল বুকিং
+33: 33
+You have exceeded the maximum number of files: আপনি সর্বোচ্চ ফাইলের সংখ্যা অতিক্রম করেছেন
+Payment with error!: অশুদ্ধ সাথে পেমেন্ট!
+Error occurrence the payment: পেমেন্টে ত্রুটি হয়েছে
+Offer name is empty: অফারের নাম খালি
+Upgrade it: এটি আপগ্রেড করুন
+Spa Services: স্পা সেবা
+Not reminded: অনুস্মৃতি প্রাপ্ত নয়
+Deal finished: চুক্তি সম্পন্ন
+Report content: তথ্য রিপোর্ট করুন
+Reported Event: ONE LOVE FESTIVAL.TO: রিপোর্ট করা ইভেন্ট: ONE LOVE FESTIVAL.TO
+Offer id is missing: অফার আইডি অনুপস্থিত
+Location Picker: অবস্থান পিকার
+Still need to enable and update location picker module: এখনো অবস্থান পিকার মডিউল সক্ষম এবং আপডেট করতে প্রয়োজন
+Load and Update: লোড এবং আপডেট করুন
+Pay using stripe.com: stripe.com ব্যবহার করে পেমেন্ট করুন
+My Wallet: আমার মানিব্যাগ
+All reservation(s): সমস্ত রিজার্ভেশন (সমূহ)
+Pending reservation(s): অনুমোদনের জন্য অপেক্ষমাণ রিজার্ভেশন (সমূহ)
+Confirmed reservation(s): নিশ্চিত রিজার্ভেশন (সমূহ)
+Canceled reservation(s): বাতিল রিজার্ভেশন (সমূহ)
+1: 1
+2: 2
+3: 3
+4: 4
+5: 5
+GRPAC_MANAGE_BOOKING: রিজার্ভেশন তালিকা দেখানো
+GRPAC_MANAGE_BOOKING_CONFIG: রিজার্ভেশন পরিচালনা করুন ((অ্যাডমিন অ্যাক্সেস))
+Booking ID: বুকিং আইডি
+Booking details: বুকিং বিশদ
+Show Details: বিশদ দেখান
+Booking Item(s): বুকিং আইটেম (সমুহ)
+Total: মোট
+Booking Payment: বুকিং পেমেন্ট
+Booking Details: বুকিং বিশদ
+Call: কল করুন
+Send Message: মেসেজ প্রেরণ করুন
+No services: কোন সেবা নেই
+GRPAC_MANAGE_PAGES: ওয়েবসাইট পৃষ্ঠা তৈরি করুন এবং সম্পাদনা করুন
+GRPAC_MANAGE_MENU: ওয়েবসাইট মেনু তৈরি করুন এবং সম্পাদনা করুন
+GRPAC_MANAGE_LINKS: ওয়েবসাইট লিঙ্ক তৈরি করুন এবং সম্পাদনা করুন
+Popular Categories: জনপ্রিয় বিভাগসমূহ
+Popular Stores: জনপ্রিয় দোকানসমূহ
+Find nearby stores in your area: আপনার এলাকায় আসন্ন দোকান খুঁজুন
+View All: সমস্ত দেখান
+Upcoming Events: আসন্ন ইভেন্টসমূহ
+Find events in your area: আপনার এলাকায় ইভেন্টসমূহ খুঁজুন
+Started Events: শুরুকৃত ইভেন্টসমূহ
+Our Very Best Deals: আমাদের খুবই ভাল অফারগুলি
+Find best offers & deals in your area: আপনার এলাকায় সেরা অফার এবং চুক্তি খুঁজুন
+Join us now!: এখনই আমাদের সাথে যোগদান করুন!
+Sign In: সাইন ইন করুন
+We've sent an email to your mailbox: আমরা আপনার মেইলবক্সে একটি ইমেল প্রেরণ করেছি
+Forgot Password ?: পাসওয়ার্ড ভুলে গেছেন?
+Login...: লগইন...
+Don’t have an account?: একাউন্ট নেই?
+Please confirm login email below: নীচে লগইন ইমেল নিশ্চিত করুন
+You will receive an email containing a link allowing you to reset your password to a new preferred one: আপনি একটি ইমেল প্রাপ্ত করবেন যা আপনাকে একটি নতুন পছন্দসই পাসওয়ার্ডে পুনর্নির্ধারণ করার জন্য একটি লিঙ্ক সঙ্গে সংযুক্ত করবে
+Checking...: পরিদর্শন হচ্ছে...
+Update location: লোকেশন আপডেট করুন
+to get stores in your area please specify your default location: আপনার এলাকায় স্টোর পেতে দয়া করে আপনার ডিফল্ট লোকেশন নির্দিষ্ট করুন
+Find location...: লোকেশন খুঁজুন...
+Updating...: আপডেট করা হচ্ছে...
+Menu: মেনু
+Menu_Home: হোম
+Menu_About_us: আমাদের সম্পর্কে
+Menu_Add_your_business: আপনার ব্যবসায় যোগ করুন
+Address, neighborhood...: ঠিকানা, বাস্তি...
+What are you looking for...: আপনি কি খুঁজছেন...
+Quick Links: দ্রুত লিঙ্কগুলি
+Menu_Contact_us: যোগাযোগ করুন
+Top Categories: শীর্ষ বিভাগগুলি
+Contacts: যোগাযোগ
+Follow us: আমাদের অনুসরণ করুন
+Terms and conditions: শর্তাদি
+Privacy: গোপনীয়তা
+Closed: বন্ধ
+Superb: অত্যন্ত ভাল
+Review(s): পর্যালোচনা (গুলি)
+Find recently open stores: সাম্প্রতিকভাবে খোলা স্টোর খুঁজুন
+Placeholder: প্লেসহোল্ডার
+Now Open: এখন খোলা
+Casablanca: কাসাব্লাংকা
+Morocco: মরক্কো
+BannerWidget: হোম - ব্যানার
+JoinUsWidget: হোম - যোগদান করুন
+HomeHeader: হোম - হেডার
+lightLogo: লাইট লোগো
+darkLogo: ডার্ক লোগো
+pack_nbr_offers_monthly: অফার
+pack_nbr_events_monthly: ইভেন্ট
+pack_nbr_stores: স্টোর
+pack_push_campaign_auto: পুশ বিজ্ঞপ্তি
+pack_nbr_campaigns_monthly: মাসিক ক্যাম্পেইন
+Discover nearby stores: পার্শ্ববর্তী স্টোর আবিষ্কার করুন
+The best offers at the best price: সেরা মূল্যে সেরা অফার
+Low: কম
+Normal: সাধারণ
+Good: ভাল
+High: উচ্চ
+More than 3000 Restaurants & Stores: ৩০০০ এরও অধিক রেস্টুরেন্ট এবং দোকান
+Average price: $: গড় মূল্য: $
+Average price: $$: গড় মূল্য: $$
+Average price: $$$: গড় মূল্য: $$$
+Average price: $$$$: গড় মূল্য: $$$$
+Discounted item: ছাড়পত্র সামগ্রী
+started: শুরু
+Upcoming: আসন্ন
+Are you a Business Owner?: আপনি কি ব্যবসায়িক মালিক?
+Join Us to increase your online visibility. You'll have access to even more customers who are looking to enjoy your tasty dishes at home.: অনলাইন দৃশ্যমানতা বৃদ্ধি করতে আমাদের সাথে যোগ দিন। আপনার টেস্টি খাবার গৃহে উপভোগ করতে আরও অধিক গ্রাহকের কাছে পৌঁছে দেয়ার সুযোগ পাবেন।
+Filters: ফিল্টার
+Search again...: আবার অনুসন্ধান করুন...
+Distance: দূরত্ব
+Radius selected destination: ব্যবহৃত মৈত্রিল ব্যাস
+Open only: কেবল খোলা
+Reset filter: ফিল্টার পুনরায় সেট করুন
+Sort by popular: জনপ্রিয়তানুসারে সাজান
+Sort by top rated: সর্বোচ্চ রেটিং অনুযায়ী সাজান
+Sort by nearby: কাছাকাছি অনুসারে সাজান
+Sort by recent: সাম্প্রতিকতানুসারে সাজান
+   %s stores: %s stores
+   %s stores in %s: %s stores in %s
+Find Stores: দোকান খুঁজুন
+With discount: ছাড় সঙ্গে
+With price: মূল্য সঙ্গে
+Find Offers: অফার খুঁজুন
+   %s offers: %s offers
+   %s offers in %s: %s offers in %s
+Find Events: Find Events
+   %s events: %s events
+   %s events in %s: %s events in %s
+Get directions: দিকনির্দেশনা পান
+Share on facebbok: ফেসবুকে শেয়ার করুন
+Share on twitter: টুইটারে শেয়ার করুন
+Wishlist: ইচ্ছা তালিকা
+View photos: ফটো দেখুন
+Opening Time: খোলামেলা সময়
+Other services: অন্যান্য সেবাগুলি
+Call now: এখন কল করুন
+Available on chat: চ্যাটে উপলব্ধ
+Check our services online: আমাদের অনলাইন সেবা পরীক্ষা করুন
+Reservation: রিজার্ভেশন
+Load more: আরো লোড করুন
+Leave a review: একটি পর্যালোচনা ছেড়ে দিন
+Write a review for "%s": "%s" এর জন্য একটি পর্যালোচনা লিখুন
+Overall rating: সামগ্রিক রেটিং
+Your review: আপনার পর্যালোচনা
+Write your review to help others learn about this online business: আপনার পর্যালোচনা লেখুন যাতে অন্যদেরকে এই অনলাইন ব্যবসায় জানাতে সাহায্য করতে পারেন
+i have read and accept the terms of use and privacy policy: আমি ব্যবহারের শর্তাবলী এবং গোপনীয়তা নীতি পড়েছি এবং গ্রহণ করছি
+Please accept on out terms of use and privacy policy: অনুগ্রহ করে আমাদের ব্যবহারের শর্তাবলী এবং গোপনীয়তা নীতি গ্রহণ করুন
+Submit review: পর্যালোচনা জমা দিন
+Thank you!: ধন্যবাদ!
+Your review was added successful: আপনার পর্যালোচনা সাফল্যে যোগ করা হয়েছে
+Choose multi options: একাধিক অপশন চয়ন করুন
+Choose one option: একটি অপশন চয়ন করুন
+Contact us: যোগাযোগ করুন
+Name and Last Name: নাম এবং শেষ নাম
+Send message: বার্তা পাঠান
+Your message: আপনার বার্তা
+Sending...: পাঠানো হচ্ছে...
+You have sent a message: আপনি একটি বার্তা পাঠিয়েছেন
+Booking Summary: বুকিং সারাংশ
+Booking...: বুকিং...
+Book Now: এখনি বুক করুন
+No money charged on this steps: এই পদক্ষেপে কোন টাকা চার্জ হয়নি
+Chat: চ্যাট
+Monday: সোমবার
+Tuesday: মঙ্গলবার
+Wednesday: বুধবার
+Thursday: বৃহস্পতিবার
+Friday: শুক্রবার
+Saturday: শনিবার
+Sunday: রবিবার
+What looking for?: কী খুঁজছেন?
+How to get to %s: %s এ কীভাবে যাওয়া যায়
+Related offers: সম্পর্কিত অফারগুলি
+Participating...: অংশগ্রহণ করছে...
+Participate: অংশগ্রহণ করুন
+Participated: অংশগ্রহণ করা হয়েছে
+Canceling...: বাতিল করা হচ্ছে...
+Cancel participation: অংশগ্রহণ বাতিল করুন
+Website: ওয়েবসাইট
+Go back: ফিরে যান
+Booking error!: বুকিং ত্রুটি!
+Your transaction cannot be completed: আপনার লেনদেন সম্পন্ন করা সম্ভব হয়নি
+Please fill all required fields: অনুগ্রহ করে সমস্ত প্রয়োজনীয় ক্ষেত্রগুলি পূরণ করুন
+Payment Methods: পেমেন্ট পদ্ধতিগুলি
+Confirming...: নিশ্চিত করা হচ্ছে...
+Pick Location: অবস্থান বেছে নিন
+Use this location: এই অবস্থান ব্যবহার করুন
+Payment Confirmed!: পেমেন্ট নিশ্চিত হয়েছে!
+thank you for booking!: বুকিং করার জন্য আপনাকে ধন্যবাদ!
+Contact Us: আমাদের সাথে যোগাযোগ করুন
+A successful business experience: একটি সফল রেস্তোরাঁ অভিজ্ঞতা
+Drop Us a Line: একটি লাইন প্রাক্তন করুন
+Message: বার্তা
+Your password was changed successful: আপনার পাসওয়ার্ড সফলভাবে পরিবর্তিত হয়েছে
+Login now: এখনই লগইন করুন
+Changing...: পরিবর্তন হচ্ছে...
+Change: পরিবর্তন
+First and Last Name: প্রথম এবং শেষ নাম
+Email address: ইমেল ঠিকানা
+Sign up Now: এখনই সাইন আপ করুন
+Signing up...: সাইন আপ হচ্ছে...
+Personal details: ব্যক্তিগত বিশদ
+Our Pricing Plans: আমাদের মূল্য পরিকল্পনা
+Pick a plan and join the our community.: একটি পরিকল্পনা নির্বাচন করুন এবং আমাদের সম্প্রদায়ে যোগ দিন
+Join Us: আমাদের সংযোজন করুন
+No result found!: কোন ফলাফল পাওয়া যায়নি!
+What are you looking for?: আপনি কি খুঁজছেন?
+We're sorry, but the page you were looking for doesn't exist: আমরা দুঃখিত, কিন্তু আপনি যে পৃষ্ঠাটি দেখছিলেন সেটি বিদ্যমান নেই
+We're sorry, we couldn't find results for your search: আমরা দুঃখিত, আপনার অনুসন্ধানের জন্য ফলাফল পাওয়া যায়নি
+Add your business: আপনার ব্যবসা যোগ করুন
+Manage Template: টেমপ্লেট পরিচালনা করুন
+Error!: ত্রুটি!
+themeOptions: themeOptions
+Custom CSS: কাস্টম CSS
+Custom Javascript: কাস্টম জাভাস্ক্রিপ্ট
+Recompile translate file: পুনরায় অনুবাদ ফাইল কম্পাইল করুন
+Template Selector: টেমপ্লেট নির্বাচক
+color: রঙ
+font: ফন্ট
+   
+   ChatGPT
+favicon: ফ্যাভিকন
+Sub_Title: সাব_শিরোনামা
+Background: পেছনের প্রস্তুতি
+active: সক্রিয়
+title: শিরোনামা
+description: বিবরণ
+image: চিত্র
+Custom css will be placed inside head tag for all pages (do not add style tags): কাস্টম CSS সমস্ত পৃষ্ঠায় শিরোনামের ট্যাগে রাখা হবে (স্টাইল ট্যাগ যোগ করবেন না)
+Custom javascript will be placed in the end of body tag (do not add javascript tags): কাস্টম জাভাস্ক্রিপ্ট বডি ট্যাগের শেষে রাখা হবে (জাভাস্ক্রিপ্ট ট্যাগ যোগ করবেন না)
+Wish List: ইচ্ছা তালিকা
+City: শহর
+Specify location: অবস্থান নির্দিষ্ট করুন
+Unpaid invoices: বকেয়া চালান
+booking_payment: বুকিং পেমেন্ট
+View on Map: মানচিত্রে দেখুন
+Sort by upcoming: আসন্ন দ্বারা সাজান
+Home page: হোম পেজ
+Contact info: যোগাযোগের তথ্য
+Social media: সামাজিক যোগাযোগ
+Short description: সংক্ষিপ্ত বিবরণ
+Keywords: কীওয়ার্ড
+Contact information: যোগাযোগের তথ্য
+Office location: অফিস অবস্থান
+The Maps Embed URL: মানচিত্র এম্বেড URL
+Generate embed google map: এম্বেড গুগল মানচিত্র তৈরি করুন
+Facebook: ফেসবুক
+Twitter: টুইটার
+Instagram: ইনস্টাগ্রাম
+Telegram: টেলিগ্রাম
+looking for stores : দোকান খুঁজছেন
+Radisson Blu Hotel: রেডিসন ব্লু হোটেল
+Closed now: এখন বন্ধ
+Massage & Spa Disocunt 2022: ম্যাসেজ এবং স্পা ডিসকাউন্ট ২০২২
+Discount: ছাড়
+Spa, Belgique: স্পা, বেলজিয়াম
+subway: সাবওয়ে
+Manage Menu: মেনু পরিচালনা করুন
+Manage Main menu: মূল মেনু পরিচালনা করুন
+Create new menu: নতুন মেনু তৈরি করুন
+Create new Menu: নতুন মেনু তৈরি করুন
+Page: পৃষ্ঠা
+External url: বাহ্যিক URL
+Select Page: পৃষ্ঠা নির্বাচন করুন
+Url: URL
+Update Menu: মেনু আপডেট করুন
+Selecting...: নির্বাচন করা হচ্ছে...
+No pages: কোনও পৃষ্ঠা নেই
+Default template: ডিফল্ট টেম্পলেট
+Bar Termini: বার টারমিনি
+Open now: এখন খোলা
+Dhaka: ঢাকা
+Bangladesh: বাংলাদেশ
+Unlimited: সীমাহীন
+Pack - Entreprise: প্যাক - ইট্রাপ্রাইজ
+Payment successful: পেমেন্ট সফল
+NEARBY STORES - Your pack "Entreprise" is activated: পাসের দোকানগুলি - আপনার প্যাক "ইট্রাপ্রাইজ" সক্রিয়
+JAM J'OUVERT '20: JAM J'OUVERT '20
+Open: খোলা
+finished: সমাপ্ত
+Restaurant Facil - Berlin: রেস্টুরেন্ট ফ্যাসিল - বার্লিন
+Munich: মিউনিখ
+Germany: জার্মানি
+London: লন্ডন
+United Kingdom: যুক্তরাজ্য
+Istanbul: ইস্তানবুল
+Turkey: তুরস্ক
+beauty: সৌন্দর্য
+cafes: ক্যাফে
+food: খাবার
+sport clubs: ক্রীড়া ক্লাব
+Restaurants: রেস্টুরেন্ট
+Booking summary: বুকিং সংক্ষেপ
+Time: সময়
+Addresss: ঠিকানা
+page: পৃষ্ঠা
+About us: আমাদের সম্পর্কে
+TCM Massage Spa: টিসিএম ম্যাসেজ স্পা
+Go to my booking: আমার বুকিং এ যান
+Sant Julià de Lòria: স্যান্ট জুলিয়া দে লোরিয়া
+AndorrA: অ্যান্ডোরা
+The Bloomsbury Club: দ্য ব্লুমসবারি ক্লাব
+ONE LOVE FESTIVAL.TO: ওয়ান লাভ ফেস্টিভাল.টু
+Simple to Food: সীম্পল টু ফুড
+2019 Blockchain Futurist Conference: ২০১৯ ব্লকচেইন ফিউচারিস্ট কনফারেন্স
+McDonald's: ম্যাকডোনাল্ডস
+Indiaroba: ইন্দিয়ারোবা
+Brazil: ব্রাজিল
+New Year Super Promo: নিউ ইয়ার সুপার প্রোমো
+Super Sale: সুপার সেল
+New: নতুন
+Reservation date: রেজার্ভেশন তারিখ
+Reservation time: রেজার্ভেশন সময়
+Gadatirgus Ķekavā:
+Bangladesh: বাংলাদেশ
+Pack - Premium: প্যাক - প্রিমিয়াম
+Please select specific user type: দয়া করে নির্দিষ্ট ব্যবহারকারী প্রকার নির্বাচন করুন
+Zuru: জুরু
+Nigeria: নাইজেরিয়া
+McFit gym Berlin Tempelhof: ম্যাকফিট জিম বার্লিন টেম্পেলহফ
+Tacos Martin: টাকোস মার্টিন
+McDonald's: ম্যাকডোনাল্ডস
+mobileLogo: মোবাইল লোগো
+Carlos Casares: কার্লোস কাসারেস
+Argentina: আর্জেন্টিনা
+Youtube: ইউটিউব
+Demo Page: ডেমো পেজ
+Publish: প্রকাশ করুন
+Unpublish: অপ্রকাশিত করুন
+Pas de la Casa: পাস ডি লা কাসা
+NearbyStores Application: নিকটবর্তী স্টোর অ্যাপ্লিকেশন
+MyWallet: আমার ওয়ালেট
+wallet: ওয়ালেট
+First time discount 35% OFF: প্রথম বার ছাড় ৩৫% অফ
+Subscription & Automatic Payments: সাবস্ক্রিপশন এবং স্বয়ংক্রিয় পেমেন্ট
+Auto renew: স্বয়ংক্রিয় নবায়ন করুন
+Free Tacos: ফ্রি টাকোস
+Friends cafe: ফ্রেন্ডস ক্যাফে
+Gallery: গ্যালারি
+Friends hotel: ফ্রেন্ডস হোটেল
+ftgtft: ফ্টগ্টফ্ট
+Report content: বিষয়বস্তু রিপোর্ট করুন: Reported storeFriends cafe
+Pune: পুণে
+India: ভারত
+Custom Page: কাস্টম পেজ
+Podgorica: পডগরিকা
+ME: মধ্য পূর্বের
+Huntfield Heights: হান্টফিল্ড হাইটস
+Australia: অস্ট্রেলিয়া
+Friends Adda: ফ্রেন্ডস আড্ডা
+Igracke: ইগ্রাক্কে
+Demo salon: ডেমো সেলুন
+Navaratri Special: নাবরাত্রি বিশেষ
+Add sub menu: সাব মেনু যোগ করুন
+Omalur: ওমলুর
+UUse shadow feature to manage his content: উপভোগ সুবিধাটি ব্যবহার করুন যাতে তার সামগ্রী পরিচালনা করা যায়
+Select user type: ব্যবহারকারীর প্রকার নির্বাচন করুন
+Pack name: প্যাক নাম
+New York Mills: নিউ ইয়র্ক মিলস
+United States: যুক্তরাষ্ট্র
+Bozkır: বোজকীর
+No reviews: কোন পর্যালোচনা নেই
+Muzayri‘: মুজায়্রি
+United Arab Emirates: সংযুক্ত আরব আমিরাত
+Boom Friday: বুম শুক্রবার
+Privacy Policy: গোপনীয়তা নীতি
+Yemen kahvesi antalya: ইয়েমেন কাফে অ্যান্তাল্যা
+Wish list: ইচ্ছা তালিকা
+Listed Stores: তালিকাভুক্ত স্টোর
+My stores: আমার স্টোর
+My offers: আমার অফার
+My participated events: আমার অংশগ্রহণ করা ইভেন্টগুলি
+Londres: লন্ডন
+Meerut: মেরঠ
+Bengaluru: বেঙ্গলুরু
+Torta: টর্টা
+Store is not valid!: স্টোরটি বৈধ নয়!
+Kuala Bhee: কুয়ালা ভী
+Indonesia: ইন্দোনেশিয়া
+Electric City: ইলেক্ট্রিক সিটি
+New York City: নিউইয়র্ক সিটি
+Tampere: টাম্পেরে
+Finland: ফিনল্যান্ড
+Mumbai: মুম্বাই
+PerPiacere Restaurant Cafe: পেরপিয়াচেরে রেস্টুরেন্ট ক্যাফে
+There was a problem with your submission, please try again.: আপনার সাবমিশনে সমস্যা হয়েছে, দয়া করে আবার চেষ্টা করুন।
+Abidjan: আবিজান
+Cote D"Ivoire: কোট ডি'আইভোয়ার
+Mega Eletronicos: মেগা ইলেট্রনিকোস্
+Yaoundé: ইয়াউন্ডে
+Cameroon: ক্যামেরুন
+Ogidi: ওগিদি
+KFC Aîn Diab: KFC Aîn Diab
+Tucson: টুকসন:
+No booking!: কোন বুকিং নেই!
+No invoice: কোন চালান নেই
+Listed Offers: তালিকাভুক্ত অফারগুলি
+Listed Events: তালিকাভুক্ত ইভেন্টগুলি
+GPS Standort: GPS স্থান
+Algiers: আলজিয়ার্স
+Algeria: আলজেরিয়া
+Barrancabermeja: ব্যারাংকাবেরমেজা
+Colombia: কলম্বিয়া
+Cairo: কায়রো
+Egypt: মিশর
+Indian Head: ইন্ডিয়ান হেড
+Canada: কানাডা
+Nepalgunj: নেপালগঞ্জ
+Nepal: নেপাল
+Seen (Kreis 3) / Waser: সেন (ক্রাইস 3) / ওয়াসার
+Switzerland: সুইজারল্যান্ড
+Test: পরীক্ষা
+New Cairo: নিউ কায়রো
+No result: কোন ফলাফল নেই
+Thākurgaon: ঠাকুরগাঁও
+Vientiane: ভিয়েনটিয়ান
+Lao People"S Democratic Republic: লাও জনগণতান্ত্রিক প্রজাতন্ত্র
+Edirne: এদিরনে
+Amersfoort: আমের্সফোর্ট
+Netherlands: নেদারল্যান্ডস
+Yanbu: য়ানবু
+Saudi Arabia: সৌদি আরব
+Selenicë: সেলেনিস
+Albania: আলবেনিয়া
+New Delhi: নতুন দিল্লী
+service is not valid!: সেবা বৈধ নয়!
+Teknāf: একনাফ
+Noida: নোয়েডা
+Doha: দোহা
+Qatar: কাতার
+Pay using your balance: আপনার ব্যালেন্স ব্যবহার করুন
+Super Deluxe Room: সুপার ডেলাক্স রুম
+Cuauhtémoc: কুয়াহটেমোক
+Mexico: মেক্সিকো
+You've already added review!: আপনি ইতিমধ্যে পর্যালোচনা যোগ করেছেন!
+Vosketap’: ভস্কেতাপ’
+Armenia: আর্মেনিয়া
+Chilakalūrupet: চিলাকালুরুপেট
+Tumkūr: তুমকুর
+Mail verification: মেইল যাচাই
+Your account is not for business: আপনার অ্যাকাউন্ট ব্যবসায়ের জন্য নয়
+Upgrade to business: ব্যবসায়ে আপগ্রেড করুন
+Zaria: জারিয়া
+Amman: আম্মান
+Jordan: জর্ডন
+Erbil: এর্বিল
+Iraq: ইরাক
+Sar-Per: সার-পের
+Zayed City: জায়েদ সিটি
+WebAppClientAcc: ওয়েবএপ ক্লায়েন্ট অ্যাকাউন্ট
+Yogyakarta: ইয়োগয়াকার্তা
+Al Raazi dubai: আল রাজি দুবাই
+new mojitto: নিউ মোজিতো
+Zefta: জেফতা
+Zagarise: জাগারিসে
+Italy: ইতালি
+Singapore: সিঙ্গাপুর
+Start after: এর পরে শুরু করুন
+Report content: প্রতিবেদন বিষয়বস্তু
+Reported offernew mojitto: প্রতিবেদিত অফারনিউ মোজিতো
+Thika: থিকা
+Kenya: কেনিয়া
+Massage: মাসাজ
+Jakar: জাকার
+Bhutan: ভুটান
+Myitkyina: ম্যাটকিয়ানা
+Myanmar: মায়ানমার
+test: পরীক্ষা
+Promotion: প্রচারণা
+Not Approved: অননুমোদিত
+Myo: আমার ও
+Brampton: ব্রামপটন
+Uberlândia: উবেরলান্ডিয়া
+Zubia: জুবিয়া
+Spain: স্পেন
+Report content: প্রতিবেদন বিষয়বস্তু
+Reported Store: Radisson Blu Hotel: প্রতিবেদিত স্টোর: রেডিসন ব্লু হোটেল
+Lahore: লাহোর
+Pakistan: পাকিস্তান
+Zeerust: জেএরাস্ট
+South Africa: দক্ষিণ আফ্রিকা
+Chennai: চেন্নাই
+Auckland: অকল্যান্ড
+New Zealand: নিউজিল্যান্ড
+Arinsal: আরিনসাল
+Serviços: সেবাসমূহ
+l: এল
+Test Black Friday: টেস্ট ব্ল্যাক ফ্রাইডে
+İzmir: ইজমীর
+My Campaigns: আমার ক্যাম্পেইন
+No discussions: কোন আলোচনা নেই
+Pattaya: পাটায়া
+Thailand: থাইল্যান্ড
+Madison: ম্যাডিসন
+Peshawar: পেশাওয়ার
+Afyonkarahisar: আফয়নকারাহিসার
+Silvassa: সিলভাসা
+You have new notification: আপনি নতুন বিজ্ঞপ্তি পেয়েছেন
+Username is not valid!: ব্যবহারকারীর নাম বৈধ নয়!
+Thessaloníki: থেসালনিকি
+Greece: গ্রীস
+black offers: কালো অফারগুলি
+George: জর্জ
+Fafe: ফাফে
+Portugal: পর্তুগাল
+index.html: ইনডেক্স.এইচটিএমএল
+City of London: সিটি অফ লন্ডন
+Moscow: মস্কো
+Russian Federation: রাশিয়ান ফেডারেশন
+kkk: কেকেকে
+Noo: নু
+bbooking_id: বুকিং আইডি
+client: ক্লায়েন্ট
+client_phone: ক্লায়েন্টের ফোন
+business_owner: ব্যবসা মালিক
+status: স্থিতি
+Hyderābād: হাইদ্রাবাদ
+Calingasta: কালিংগাস্টা
+Wrocław: ভ্রোতসলাভ
+Poland: পোল্যান্ড
+Nanded: নান্দেদ
+Coimbatore: কোয়েমবাতুর
+Vadodara: ভড়োদারা
+Nano cafe: ন্যানো ক্যাফে
+Baalbek: বালবেক
+Lebanon: লেবানন
+Riyadh: রিয়াদ
+Atwaaj: আতওয়াজ
+George Hill: জর্জ হিল
+Anguilla: আঙ্গুইলা
+festive: উত্সবময়
+Pointe-Noire: পোইন্ট-নোয়ার
+Congo: কঙ্গো
+festival sale: উৎসব বিক্রয়
+The Bronx: দ্য ব্রঙ্ক্স
+Miami: মায়ামি
+Kolkata: কলকাতা
+Payment with error: ত্রুটিসহ পেমেন্ট
+Cancuc: কাংকুক
+Río Turbio: রিও তুর্বিও
+James Spa: জেমস স্পা
+Black friday deal: ব্ল্যাক শুক্রবার ডিল
+Ouargla: ওয়ার্গলা
+ID is missing!: আইডি অনুপস্থিত!
+Payment status not selected: পেমেন্ট স্থিতি নির্বাচিত নয়
+Kannur: কান্নুর
+dada: দাদা
+Sendemail: ইমেল পাঠানো
+Pool and beach: পুল এবং সৈকত
+Sargodha: সরগোধা
+A: এ
+upcoming: আসন্ন
+Annur: আন্নুর
+Dunkerque: ডুঙ্কের্ক
+France: ফ্রান্স
+Pakur: পাকুড়
+Jackson: জ্যাকসন
+Denizli: দেনিজলি
+Residencia Moacir PU5BHV: রেসিডেন্সিয়া মোয়াসির PU5BHV
+Umm Al Quwain City: উম্ম আল কুভেইন সিটি
+Maavi Naturals: মাভি ন্যাচারালস
+Kaballi da offer: কাবাল্লি ডা অফার
+Fortaleza: ফোর্টালেজা
+Report content: Reported storeMcDonald's: রিপোর্ট কন্টেন্ট: রিপোর্টেড স্টোর McDonald's
+Invalidate Upload Function: ভ্যালিডেট আপলোড ফাংশন বাতিল করুন
+jjjjj: জেজেজেজে
+Shop clues: শপ ক্লুস
+Parauapebas: পারাউয়াপেবাস
+Buin: বুইন
+Chile: চিলি
+Subotica: সুবোটিকা
+RS: আরএস
+testing 2023: টেস্টিং ২০২৩
+Belben shops: বেলবেন শপস
+Concordia: কনকোর্ডিয়া
+Köln: কোলন
+Canada Bay: কানাডা বে
+Ordino: অর্ডিনো
+Thiago mendes: থিয়াগো মেন্ডেস
+Hanoi: হানওয়ি
+Viet Nam: ভিয়েতনাম
+10% off skincare: ১০% স্কিনকেয়ার বাটে
+DJ store: ডিজে স্টোর
+Hermosas vip: হেরমোসাস ভিপ
+Belo Horizonte: বেলো হোরিজোন্তে
+Islamabad: ইসলামাবাদ
+Longonjo: লংগোঞ্জো
+Angola: অ্যাঙ্গোলা
+Abuja: আবুজা
+New Norfolk: নিউ নরফোক
+Madurai: মাদুরাই
+Américo Brasiliense: অমেরিকো ব্রাজিলিয়ান্স
+Warranty Period: ওয়ারেন্টি সময়
+Dubai: দুবাই
+Davao: দাভাও
+Philippines: ফিলিপাইন
+Rural Retreat: গ্রামীণ আবসর
+You didn't receive the confirmation email?: আপনি নিশ্চিতকরণ ইমেল পাননি?
+Re-send the email: ইমেল পুনরায় পাঠান
+Mobile information: মোবাইল তথ্য
+Debit & Credit Card: ডেবিট এবং ক্রেডিট কার্ড
+Pay using Stripe.com: স্ট্রাইপ.কম ব্যবহার করুন
+Transfer bank: ট্রান্সফার ব্যাংক
+Mobile & WebApp information: মোবাইল এবং ওয়েবঅ্যাপ তথ্য
+Mobile Slider: মোবাইল স্লাইডার
+All sliders: সমস্ত স্লাইডার
+CMS & Pages: সিএমএস এবং পৃষ্ঠা
+Mail config: মেইল কনফিগ
+grpac_manage_translation: অনুবাদ পরিচালনা
+GRPAC_MANAGE_TRANSLATION: অনুবাদ পরিচালনা
+qrcoupon: কিউআরকুপন
+grpac_manage_offer_coupons: কুপন পরিচালনা
+grpac_scan_qrcode_mobile: মোবাইল ব্যবহারের জন্য কিউআর কোড স্ক্যান করুন
+Find top rated stores: শীর্ষ রেটেড স্টোর খুঁজুন
+Offers: অফারস
+Stores: দোকানসমূহ
+Events: ইভেন্টসমূহ
+Users: ব্যবহারকারীগণ
+Campaigns: ক্যাম্পেইনসমূহ
+paypal: পেপ্যাল
+razorpay: রেজরপে
+flutterwave: ফ্লাটারওয়েভ
+paystack: পেস্ট্যাক
+mercadopago: মার্কেডোপ্যাগো
+transferBank: ট্রান্সফার ব্যাংক
+Wallet config: ওয়ালেট কনফিগার
+Top-up: টপ-আপ
+$: ৳
+Discouver nearby stores: আশেপাশের দোকান আবিষ্কার করুন
+Find nearby stores: আশেপাশের দোকান খুঁজুন
+My coupons: আমার কুপনগুলি
+Contact: যোগাযোগ
+Token Invalid: টোকেন অবৈধ
+Booking form: বুকিং ফর্ম
+Please chose payment method: অনুগ্রহ করে পেমেন্ট পদ্ধতি চয়ন করুন
+Date format: তারিখের ফর্ম্যাট
+Set up Cron Job: ক্রোন জব সেট আপ করুন
+Set this command in your cronjob: এই কমান্ডটি আপনার ক্রোনজবে সেট করুন
+Mobile info: মোবাইল তথ্য
+About us content: আমাদের সম্পর্কে বিষয়বস্তু
+Linkedin: লিঙ্কডইন
+Service Mailer: সেবা মেইলার
+SendGrid Api key: সেন্ডগ্রিড API কী
+Note: Make sure that you created Sender identity in your SendGrid account: দ্রষ্টব্য: সেন্ডগ্রিড একাউন্টে আপনি প্রেরক পরিচয় তৈরি করা নিশ্চিত করুন
+Test API: টেস্ট এপিআই
+Coupons: কুপনগুলি
+Coupon Config: কুপন কনফিগারেশন
+Coupon type: কুপন টাইপ
+disabled: অক্ষম
+limited: সীমিত
+unlimited: সীমিত নয়
+Coupon code: কুপন কোড
+To view who has redeemed coupons from offers, go to 'Manage coupons'.: এই ফিচার ব্যবহারকারীদের অ্যাপের মধ্যে কুপন অর্জন এবং সংরক্ষণ করতে অনুমতি দেয়। যদি আপনি সীমিত কুপন সেট করেন, তবে মূল্য প্রতিটি বিনিময়ের পরে কমতে থাকবে।
+To view who has redeemed coupons from offers, go to 'Manage coupons'.: কোটসমূহ থেকে কে কে কুপন পুনরুদ্ধার করেছে তা দেখতে 'কুপন পরিচালনা' এ যান।
+Coupon: কুপন
+Sliders: স্লাইডারগুলি
+Add new slider: নতুন স্লাইডার যোগ করুন
+Add new Slider: নতুন স্লাইডার যোগ করুন
+ID is missing: আইডি অনুপস্থিত
+Getting coupon...: কুপন পেয়ে আছে...
+Get Coupon: কুপন পান
+This operation is denied: এই অপারেশনটি অস্বীকার করা হয়েছে
+Enjoy delicious food 20% OFF: সুস্বাদু খাবার ২০% ছাড়ে উপভোগ করুন
+Transfer Received: স্থানান্তর প্রাপ্ত
+Bank Transfer: ব্যাংক স্থানান্তর
+Transaction ID: লেনদেন আইডি
+Updated: আপডেট হয়েছে
+stripe: স্ট্রাইপ
+PayStack: পেস্ট্যাক
+MercadoPago: মার্কেডোপাগো
+Bank information: ব্যাংক তথ্য
+Paystack Config: পেস্ট্যাক কনফিগারেশন
+Accepted currencies: গৃহীত মুদ্রা
+Mercado Pago Config: মার্কেডো পাগো কনফিগারেশন
+Public Key ID: পাবলিক কী আইডি
+Access token: অ্যাক্সেস টোকেন
+Client secret: ক্লায়েন্ট সিক্রেট
+Bank Information: ব্যাংক তথ্য
+After customer select transfer bank as a payment, he will receive an email contains bank information: গ্রাহক অনুমতি দেবে ব্যাংক স্থানান্তর নির্বাচন করলে, তিনি একটি ইমেল প্রাপ্ত করবেন যা ব্যাংক তথ্য অন্তর্ভুক্ত করবে
+Full name or company name: পূর্ণ নাম বা কোম্পানির নাম
+SWIFT / BIC code: SWIFT / BIC কোড
+IBAN / Account Number: IBAN / অ্যাকাউন্ট নাম্বার
+Additional information: অতিরিক্ত তথ্য
+Premium: প্রিমিয়াম
+Entreprise: এন্টারপ্রাইজ
+Pay using paystack.com: paystack.com ব্যবহার করে পেমেন্ট করুন
+Pay using mercadopago.com: mercadopago.com ব্যবহার করে পেমেন্ট করুন
+Created at: তৈরি করা হয়েছে
+Updated at: আপডেট করা হয়েছে
+Update coupon: কুপন আপডেট করুন
+Change status: স্ট্যাটাস পরিবর্তন করুন
+Unverified: যাচাই করা হয়নি
+Verified: যাচাই করা হয়েছে
+Used: ব্যবহৃত
+Buyer Details: ক্রেতা বিবরণ
+E-mail: ইমেল
+Document Type: ডকুমেন্ট প্রকার
+Document Number: ডকুমেন্ট নম্বর
+Card Holder: কার্ড ধারক
+Card Number: কার্ড নম্বর
+CVV: সিভিভি
+Expiration Date: মেয়াদ শেষ হওয়ার তারিখ
+Issuer: ইস্যুকারী
+Installments: ইনস্টলমেন্ট
+You've changed status of your reservation: আপনি আপনার রিজার্ভেশনের স্ট্যাটাস পরিবর্তন করেছেন
+User ID is not valid: ব্যবহারকারী আইডি বৈধ নয়
+GRPAC_MANAGE_CUSTOM_FIELDS: চেকআউট ফিল্ড তৈরি করুন এবং সম্পাদনা করুন
+GRPAC_MANAGE: পরিচালনা করা
+GRPAC_EXIM_TOOL_MANAGER: তথ্য রপ্তানি এবং উন্নতি টুল ম্যানেজার
+Setup Successful!: সেটআপ সফল!
+Manage Taxes: কর পরিচালনা করুন
+Manage Wallet: ম্যানেজ ওয়ালেট
+Click to select files: ফাইল নির্বাচন করতে ক্লিক করুন
+Reset Consumption: খরচ রিসেট করুন
+Pick a plan and join our community.: একটি পরিকল্পনা নির্বাচন করুন এবং আমাদের কমিউনিটিতে যোগদান করুন।
+Parent category: প্যারেন্ট ক্যাটাগরি
+Select parent category: প্যারেন্ট ক্যাটাগরি নির্বাচন করুন
+Italian Foods: ইটালিয়ান খাবার
+Pizza: পিজা
+Pasta: পাস্তা
+Enable Affiliate link for this store: এই স্টোরের জন্য এফিলিয়েট লিঙ্ক সক্ষম করুন
+Enter external link: বাহ্যিক লিঙ্ক লিখুন
+TEST: পরীক্ষা
+Auto location detect: স্বয়ংক্রিয় লোকেশন সনাক্ত করুন
+You can schedule the notifications using Cron Job feature: আপনি ক্রন জব ফিচার ব্যবহার করে বিজ্ঞপ্তি সময়সূচি তৈরি করতে পারেন
+New store created: নতুন স্টোর তৈরি করা হয়েছে
+Link with checkout field: চেকআউট ফিল্ড সঙ্গে লিঙ্ক করুন
+My FIRST STORE TEST: আমার প্রথম স্টোর পরীক্ষা
+Sub cat: সাব ক্যাটগরি
+
+Notice: Array to string conversion in /home/servicebd24/public_html/index.php on line 47
+config: Array
+Test store with sub cat: সাব ক্যাটাগরি সহ পরীক্ষা

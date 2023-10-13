@@ -1,0 +1,10 @@
+{
+  "name": "Modules Manager",
+  "icon": "icon.jpg",
+  "description": "",
+  "required": 1,
+  "version_code": 3,
+  "version_name": "1.0.1",
+  "order": 1,
+  "module_system": 1
+}

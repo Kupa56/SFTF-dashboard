@@ -1,0 +1,12 @@
+{
+  "name": "Messenger Module",
+  "icon": "icon.jpg",
+  "description": "",
+  "required": 0,
+  "version_code": 4,
+  "version_name": "1.0.1",
+  "order": 6,
+  "requirements": [],
+  "install_path": "",
+  "upgrade_path": ""
+}

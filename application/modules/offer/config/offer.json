@@ -1,0 +1,12 @@
+{
+  "name": "Offer Module",
+  "icon": "icon.jpg",
+  "description": "",
+  "required": 1,
+  "version_code": 23,
+  "version_name": "2.1.1",
+  "order": 3,
+  "requirements": [],
+  "install_path": "",
+  "upgrade_path": ""
+}

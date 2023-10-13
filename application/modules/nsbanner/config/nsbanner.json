@@ -1,0 +1,12 @@
+{
+  "name": "NS_Banner",
+  "icon": "icon.jpg",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non nunc interdum, elementum urna sed, tempor enim. Pellentesque fringilla ut dolor ac vulputate. Donec cursus gravida mattis.",
+  "required": 0,
+  "version_code": 2,
+  "version_name": "1.0.1",
+  "order": 26,
+  "requirements": [],
+  "install_path": "",
+  "upgrade_path": ""
+}

@@ -1,0 +1,9 @@
+_filter_dashboard_0: Last 24h
+_filter_dashboard_1: Yesterday
+_filter_dashboard_2: Last 7 days
+_filter_dashboard_3: Last 30 days
+_filter_dashboard_4: Last 90 days
+_filter_dashboard_5: Last year
+
+GRPAC_MANAGE_BOOKING: Displying reservation list
+GRPAC_MANAGE_BOOKING_CONFIG: Manage reservations (<sub class="text-red">(ADMIN ACCESS)</sub>)

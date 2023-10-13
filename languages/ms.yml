@@ -1,0 +1,594 @@
+#Configuration
+config:
+  name: Malay
+  version: 1.0
+
+Hello: Hello
+Welcome: Welcome
+Login: Log masuk
+Login_error: Ralat log masuk
+Error: Ralat
+Canceled: Dibatalkan
+FORGET PASSWORD: LUPA KATA LALUAN
+dont_have_account: Tiada akaun?
+Forgot_Password: Lupa Kata Laluan
+Login_seccessfully: anda berjaya disambungkan
+Total_Stores: Total Stores
+Total_Events: Total Events
+Total_Customers: Total Customers
+Total_Campaigns: Total Campaigns
+Overview: Overview
+Recently_Added: Recently Added
+Last_reviews: Semakan terakhir
+View_all_stores: View More
+Home: LAMAN UTAMA
+Offers: Tawaran
+Manage Events: Urus Acara
+Manage Customers: Urus Pelanggan
+Categories: Kategori
+Compaigns: Kempen
+Application: Application
+Events: Acara
+Add_new: Tambah Baru
+All_stores: Semua kedai
+All Offers: Semua Tawaran
+My_stores: Kedai saya
+All Campaigns: Semua Kempen
+My campaigns: Kempen saya
+Pushed: Pushed
+Completed: Selesai
+Campaigns (No-valid): Kempen (Tidak sah)
+Campaigns: Kempen
+Description_app: PlaceShop adalah aplikasi carian perniagaan tempatan yang inovatif dengan fungsi carian pintar yang dapat membantu anda mencari perniagaan yang berbeza di kawasan dengan mudah. Ia mempunyai pengurus lokasi kedai yang berkuasa yang membolehkan anda mengurus kedai, kategori, pemberitahuan, pemilik perniagaan, acara, dan tawaran
+Setup_easy_desc: No coding , Easier and faster Setup using configuration forms
+Advanced_setting_desc: Tetapan yang disederhanakan, kawalan penuh aplikasi (logo, nama, had akses, radius, pemberitahuan, Mata Wang ...)
+Make_business_desc: Tingkatkan penukaran perniagaan anda dengan aplikasi ini
+Beautiful_ui: Kad yang Indah, animasi dan pemberitahuan yang menunjukkan apa yang penting di sekitar anda
+Cutomize_app_desc: Tiada kemahiran pengaturcaraan diperlukan, aplikasi mudah disetkan dan disuaikan.
+Chat_desc: Anda boleh berbual dengan jiran anda dan pemilik perniagaan tanpa had, hanya log masuk ke aplikasi, aktifkan GPS anda, maka anda akan mendapat semua orang yang penting.
+Gps_des: PlaceShop berdasarkan kedudukan anda untuk memberikan anda semua perkara menarik yang berdekatan, jadi jangan lupa untuk mengaktifkan GPS sebelum menggunakan aplikasi.
+Keep_it_controle: Papan pemuka memberikan anda penglihatan penuh terhadap penggunaan aplikasi. Graf dan jadual hadir untuk memberikan anda penjejakan yang lebih baik.
+Push_offers: Send push notifications to your customer with one click to inform them of new offers next to them , more you can organize your content into a campaign and push it directly to your users .
+Manage_customers: Sebagai pentadbir, anda mempunyai hak untuk menguruskan pelanggan dan kedai mereka, bergantung pada jenis langganan yang anda tawarkan, anda boleh membataskan hak kepada pengguna.
+Support_multi_language: You can switch to your favorite lanquage with a simple click .
+Advanced_dashboard_desc: Sentiasa terkini tentang penyelesaian anda dengan papan pemuka yang cantik.
+Nearby_stores_features: PlaceShop dilengkapi dengan lokasi geografi yang tepat yang membolehkan pelanggan anda mencari jalan ke kedai anda dengan mudah.
+Contact_us_desc: Kami menyediakan sokongan cepat dan boleh dipercayai kepada pelanggan kami, sama ada untuk pertanyaan, pembaikan masalah, pengubahsuaian dan permintaan khas. Jika anda memerlukan bantuan dalam pemasangan, hanya hantarkan mesej kepada kami melalui borang ini.
+you_dont_have_permission: You don't have permission to run this query , please try later!
+Are you sure?: Adakah anda pasti?
+Are you sure you want to delete it: Adakah anda pasti mahu memadamkannya
+Customer_can_publish_own_event_auto: Pelanggan boleh mempublish acaranya sendiri tanpa pengesahan admin
+Number_campaigns_max_monthly: Bilangan kempen maksimum setiap bulan
+Number items per page: Item yang dibenarkan setiap halaman
+Number stores per page: Bilangan kedai dibenarkan setiap muka surat
+Download app: Muat turun aplikasi
+Dashboard Color: Warna papan pemuka
+Upload limitation: Upload limitation
+Back-office_logo: logo papan pemuka
+Crypto_key: Kunci crypto
+Enable Offer: Enable offerAktifkan tawaran
+Enable Event: Aktifkan acara
+Default_language: Default language
+User subscription: User subscription
+Campaign config: Konfigurasi Kempen
+Welcome message: Welcome message
+Optional field: Optional field
+Dashboard analytics: Analitik papan pemuka
+Enable Messages From Dashboard: Aktifkan Mesej Dari Papan Pemuka
+Allow dashboard messenger to owners: Benarkan pesanan pesanan ke pemilik dashboard
+Enable chat with firebase: Aktifkan sembang dengan firebase
+Should be enabled from app client: Should be enabled from app client
+Number_max_of_stores: Bilangan kedai dibenarkan
+Number_events_max_monthly: Bilangan acara yang dibenarkan setiap bulan
+Number campaigns max monthly: kempen dibenarkan sebulan
+Number_offers_max_monthly: Bilangan tawaran yang dibenarkan setiap bulan
+Email_verificaion: E-mel pengesahan
+User_config: User config
+App_name: App name
+Default_email: E-mel asas
+Back-office_ logo: Back-office logo
+Dashborad_config: Konfigurasi papan pemuka
+Number_items_per_page: Bilangan item setiap muka surat
+Copy_this_key_your_android_res: Salin kunci ini ke fail sumber Android anda.
+Number_stores_per_page: Bilangan kedai setiap muka surat
+Enable_store: Aktifkan kedai
+Customer_can_publish_own_store_auto: Pelanggan boleh mempublish kedai mereka sendiri tanpa pengesahan admin
+Default_timezone: Zon masa asas
+Default _anguage: Bahasa asas
+Add_new_currency: Tambah mata wang baru
+Language: Bahasa
+Without_validation_by_admin: Without validation by admin
+Push_campaign_auto: Push campaign auto
+Target_raduis: Targeting radius (km)
+Number_max_pushes_per_campaign: "Penghuluan yang dibenarkan setiap kempen
+Use_campaign_with_crontab: Use campaign with crontab
+you_can_push_10_campaigns_for_every_10_minutes: you can push 10 campaigns for every 10 minutes
+Add_this_url_in_cronTab_in_your_cpanel: Tambahkan url ini di cronTab di cpanel anda
+Number_max_pushes_per_campaign_with_cronjob_in_every_execute: Penghuluan yang dibenarkan setiap kempen dengan crontab untuk setiap segmen
+Messages Config: Konfigurasi mesej
+We could not find the page you were looking for: We could not find the page you were looking for
+Meanwhile, you may: Sementara itu, anda boleh
+return to the home page: return to the home page
+or try using the search form: or try using the search form
+Are you sure that you want to delete this store: Adakah anda pasti ingin memadam kedai ini
+Are you sure that you want to delete this Event: Adakah anda pasti mahu memadam acara ini
+Are you sure that you want to delete this user: Adakah anda pasti ingin memadam Pengguna ini
+The installation folder represents a danger: The installation folder represents a danger
+Please remove install directory: Please remove the installation folder
+Account without verification!: Akaun tanpa pengesahan!
+We've sent mail verification to your mailbox.: We've a sent mail verification to your mailbox.
+Delete_confirmation: Adakah anda pasti ingin memadam kedai ini !!
+Alert_compaign: Push acara, tawaran atau kedai baru kepada pengguna yang terdekat.
+Type campaign: Campaign's type
+No Campaigns: Tiada Kempen
+Offer is expired: Tawaran telah luput
+That offer will expired in: That offer will expired in
+Edit offer: Sunting tawaran
+This campaign will be displayed to %s customers within %s KM: This campaign will be reached %1$s customers within %2$s KM
+Are you sur to duplicate this campaign ?: Adakah anda pasti untuk menyalin kempen ini?
+Telephone: Telephone
+Action: Tindakan
+Rating: Rating
+Allow: Benarkan
+Deny: Tolak
+Your account has created: Your account has created
+Success: Success
+No data found: Tiada data dijumpai
+Enter your email: Masukkan emel anda
+Title: Title
+Reset: Reset
+Connect: Sambungkan
+Pending: Pending
+App name: App name
+Symbol: Symbol
+Cancel: Batal
+Format: Format
+Name: Nama
+config_sidebar: Konfigurasi Global
+MENU: MENU
+All Events: Semua acara
+My events: Acara saya
+All Compaigns: Semua Kempen
+My Compaigns: Kempen saya
+Search: Search
+Enabled: Dihidupkan
+Create your store: Cipta kedai anda
+Detail: Perincian
+Add new offer: Tambah tawaran baru
+Date Begin: Tarikh Mula
+Date End: Tarikh Tamat
+Offer: Tawaran
+Published: Published
+Finished: Selesai
+Disabled: Dinyahaktifkan
+Create new campaign: Cipta Kempen Baru
+Select campaign type: Select campaign type
+Select event: Select event
+Select offer: Select offer
+Push: Push
+Duplicate: Duplikat
+Create: Cipta
+Role Type: Role type
+View all stores: View all stores
+Owner: Owner
+Store: Store
+Send password: Send password
+We've sent new password to your mailbox: We've sent new password to your mailbox
+Profile: Profile
+Logout: Log keluar
+Add: Tambah
+Toggle navigation: Toggle navigation
+Save: Save
+Currencies: Mata wang
+Default_currency: Mata wang asas
+signup: signup
+Reviews: Reviews
+Stores: Stores
+Confirm: Sahkan
+Delete: Padam
+Close: Tutup
+Update_your_store: Update your Store
+Drag the marker to get the exact position: Seret penanda untuk mendapatkan kedudukan yang tepat
+Add_new_offer: Tambah tawaran baru
+Clear: Jelas
+Add new category: Tambah kategori baru
+Edit Category: Sunting Kategori
+Category name: Nama Kategori
+Offer percent: Peratus tawaran
+Offer price by: Harga tawaran mengikut
+Date end: Tarikh tamat
+Date begin: Tarikh mula
+Description: Penerangan
+Targeting estimation: Targeting estimation
+Radius of: Radius of
+Km you will target: Km yang akan dijangkaui
+nearby guests: Tetamu berdekatan
+Will end at: Will end at
+No Offers: Tiada Tawaran
+Create Event: Cipta Acara
+Image: Gambar
+Images: Gambar
+Event name: Nama Acara
+Address: Alamat
+Username: Username
+Email: Emel
+WebSite: WebSite
+Access Role: Peranan Akses
+Status: Status
+Customers: Pelanggan
+Type: Type
+Last visited: Terakhir dilawati
+No-Confirmed: Tidak disahkan
+Confirmed: Disahkan
+Admin: Admin
+Customer: Pelanggan
+Select store: Select store
+Number of stores: Kedai Dibenarkan Setiap Bulan
+Create new User: Cipta Pengguna Baru
+Create new: Cipta baru
+Confirm Password: Sahkan Kata Laluan
+Password: Password
+Phone Number: Phone Number
+Number of events monthly: Bilangan Acara Bulanan
+Campaigns monthly: bilangan kempen bulanan
+Number of offers monthly: Number of offers monthly
+Note: Note
+Store Name: Store Name
+Category: Kategori
+User configuration: User Subscription
+setup_successful: Successful Setup
+have_already_account: Sudah mempunyai akaun
+Access denied: Akses ditolak
+Sorry you don't have permission to do it: Sorry you don't have permission to do it
+User not created !!: User not created !!
+You don't have an account . could you please create it !!: You don't have an account . could you please create it !!
+Store already exist: Store already exist
+Login invalid: Masuk tidak sah
+Empty login: Log masuk kosong
+Empty password: Kata laluan kosong
+Check your confirm password: Sahkan kata laluan anda
+Sorry your account is locked !!: Sorry your account is locked !!
+Auth error: Ralat Auth
+user not found: user not found
+Username is invalid or already exist!: Username is invalid or already exist!
+This name is already exist: This name is already exist
+username is empty: username is empty
+Empty Address: Alamat kosong
+User not logged in: User not logged in
+Your mail is not valid: Your mail is not valid
+Your mail is empty: Your mail is empty
+Miss authentication to access this page: Tidak sah untuk akses halaman ini
+this username or email is already exist: this username or email is already exist
+You dont have the access to delete this post: You dont have the access to delete this post
+user not selected: user not selected
+username field is empty: username field is empty
+username field is invalid: username field is invalid
+forgot password: lupa kata laluan
+missing mac address: Alamat MAC hilang
+Invalid mac_address: Alamat fizikal tidak sah
+Store_id is messing: Store_id is messing
+Oops! Page not found: Oops! Page not found
+Store name is empty: Store name is empty
+Store name is not valid: Store name is not valid
+Store address is empty: Store address is empty
+Phone number is empty !!: Phone number is empty !!
+Phone number is invalid !!: Phone number is invalid !!
+store already: store already
+Category is not set: Kategori tidak ditetapkan
+Store not created !!: Store not created !!
+location not found !!: lokasi tidak dijumpai !!
+Store not specified !!: Store not specified !!
+You should delete all stores from this category !!: You can not delete this category because it is linked to other stores !!
+Category not found !!: Kategori tidak dijumpai!
+Category is empty !!: Kategori kosong!
+Category name should no be empty !!: Nama Kategori tidak boleh kosong !!
+Invalid event name: Nama acara tidak sah
+Invalid description: Penerangan tidak sah
+description is empty: Penerangan kosong
+Invalid phone number: Nombor telefon tidak sah
+Address is empty: Alamat kosong
+Name is empty: Nama kosong
+date begin format not valid !: Format tarikh mula tidak sah!
+date end format not valid !: Format tarikh tamat tidak sah!
+Enter a valid URL !!: Masukkan URL yang sah !!
+your position is not found !: your position is not found !
+This name is already exist !!: This name is already exist !!
+event not created !!: Acara tidak dicipta !!
+event not found !!: Acara tidak dijumpai !!
+Event not specified !!: Acara tidak dinyatakan !!
+no message to send: Tiada mesej untuk dihantar
+This operation is denied in demo mode: This operation is denied in demo mode
+You don't have permission to do it!: You don't have permission to do it!
+You have exceeded the maximum number of events: You have exceeded the maximum number of events
+You have exceeded the maximum number of campaigns: You have exceeded the maximum number of campaigns
+You have exceeded the maximum number of stores: You have exceeded the maximum number of stores
+Status not found: Status not found
+This currency is already exist: This currency is already exist
+Please_select_store: Please select store
+mail_verification: pengesahan mel
+Type is not valid: Type is not valid
+Campaign name is empty: Nama Kempen kosong
+Something wrong: Something wrong
+Register id errors: Register id errors
+Date of begin is not valid: Tarikh mula tidak sah
+Offer id is messing: ID tawaran hilang
+Store id is not valid: Store id is not valid
+Password is not valid: Password is not valid
+Token isn t valid: Token isn t valid
+The password must be at least 6 characters: The password must be at least 6 characters
+Reset error: Reset error
+Your login not exist or you have exceeded the limit of sending: Your login does not exist or you have exceeded the sending limit
+Error (SenderId isn't valid!): Ralat (PenghantarId tidak sah!)
+login or password are not valid: log masuk atau kata laluan tidak sah
+Name field is empty: Ruangan nama kosong
+Your email address is already existing !!: Your email address is already existing !!
+Your position is not specified or it is invalid: Your position is not specified or it is invalid
+Begin date is not valid: Tarikh mula tidak sah
+Name error: Ralat nama
+Email error: Ralat e-mel
+Test3: Test3
+All notifications are received and viewed by users: Semua pemberitahuan diterima dan dilihat oleh pengguna
+All notifications are pushed to closer users: Semua pemberitahuan diteruskan kepada pengguna yang lebih dekat
+have received the notification: telah menerima pemberitahuan
+reviews: reviews
+Number max pushes per campaign: Bilangan pusat maksimum setiap kempen
+Information: Maklumat
+Maps api key: Maps api key
+Firebase key: Kunci Firebase
+Pseudo or Mail: Pseudo or Mail
+To test the campaign in debug mode, you must be sure that at least one shop, event or offer is created: to test the campaign in debug mode, you must be sure that at least one shop, event or offer is created
+Please select a photo: Please select a photo
+DeepLinkingIntro: Deeplinks adalah konsep yang membantu pengguna menavigasi antara web dan aplikasi. Mereka pada dasarnya adalah URL yang menavigasikan pengguna terus ke kandungan tertentu dalam aplikasi.
+grpac_add: ADD
+grpac_edit: EDIT
+grpac_delete: DELETE
+grpac_manage_group_access: MANAGE GROUPE ACCESS (Admin access)
+grpac_manage_gallery: MANAGE GALLERY
+grpac_push_campaigns: PUSH CAMPAIGNS
+grpac_manage_taxes: MANAGE TAXES (Admin access)
+grpac_display_transactions: DISPLAY TRANSACTIONS (Admin access)
+grpac_send_and_receive: SEND AND RECIEVE MESSAGES
+grpac_manage_messages: MANAGE MESSAGES (Admin access)
+grpac_change_app_setting: CHANGE APP SETTING (Admin access)
+grpac_manage_currencies: MANAGE CURRENCIES (Admin access)
+grpac_config_payment: CONFIG PAYMENT
+grpac_dashboard_accessibility: DASHBOARD ACCESSIBILITY
+grpac_manage_campaign_config: MANAGE CAMPAIGN CONFIG (Admin access)
+grpac_manage_modules: MODULES MANAGER (Admin access)
+grpac_manage_stores: STORES MANAGER (Admin access)
+grpac_manage_offers: OFFERS MANAGER (Admin access)
+grpac_manage_events: EVENTS MANAGER (Admin access)
+grpac_manage_campaigns: CAMPAIGNS MANAGER (Admin access)
+grpac_manage_users: USERS MANAGER (Admin access)
+grpac_user_setting: USER CONFIG (Admin access)
+grpac_modules_manager: MANAGE MODULES (Admin access)
+nbr_offers_monthly: Bulanan Tawaran Dibenarkan
+nbr_stores: Kedai Bulanan Dibenarkan
+push_campaign_auto: Auto Push Notifications
+nbr_campaigns_monthly: Bulanan Kempen Dibenarkan
+nbr_events_monthly: Bulanan Acara Dibenarkan
+check_for_chat: Dengan memeriksa medan ini, anda membolehkan ciri perbualan untuk kedai ini
+enable_chat: Aktifkan sembang
+_filter_dashboard_0: Hari ini
+_filter_dashboard_1: Semalam
+_filter_dashboard_2: 7 hari lepas
+_filter_dashboard_3: 30 hari lepas
+_filter_dashboard_4: 90 hari lepas
+_filter_dashboard_5: Sepanjang tahun
+Link is not valid: Pautan tidak sah
+Freedom:
+This operation is denied:
+3 Months: 3 bulan
+6 Months: 6 bulan
+2 Years: 2 tahun
+3 Years: 3 tahun
+4 Years: 4 tahun
+Dashboard: Papan pemuka
+Your account is not for business:
+Upgrade to business:
+Timezone:
+-- Select timezone: Pilih zon masa
+Quick search...:
+My bookings: Tempahan saya
+Account: Akaun
+Payment:
+Billing: Pembayaran
+All rights reserved.:
+Enable HTML editor: Aktifkan penyunting HTML
+Back: Kembali
+Loading: Memuatkan
+Reservations:
+All reservation(s): Semua tempahan
+Pending reservation(s):
+Confirmed reservation(s): Tempahan yang disahkan
+Canceled reservation(s): Tempahan yang dibatalkan
+1:
+2:
+3:
+4:
+5:
+Balance: Baki
+Remaining account credits:
+Top-up:
+Invoices:
+Amount: Jumlah
+Tax:
+Items:
+Date: Tarikh
+OK:
+Custom amount: Jumlah tersuai
+Enter amount: Masukkan jumlah
+Edit user information: Sunting maklumat pengguna
+Select Images:
+Uploaded files:
+Click to select files: Klik untuk memilih fail
+Phone:
+Change Password: Tukar Kata Laluan
+New password: Kata Laluan Baru
+User type:
+Consumption: Penggunaan
+Subscription & Plan:
+Upgrade your account:
+Last Invoice: Invois terakhir
+No invoice: Tiada invois
+Last Transaction: Transaksi terakhir
+No transaction: Tiada transaksi
+Pack Confirmation:
+Confirm & Save: Sahkan & Simpan
+Subscribe Options:
+Stater:
+You will save:
+monthly: Bulanan
+Enterprise:
+Premium:
+Special:
+Advanced: Maju
+Checkout:
+Pay using PayPal.com:
+Pack - Stater:
+TOTAL:
+Credit or debit card:
+Pay with credit or debit card by using stripe.com:
+Unpaid:
+InvoiceID:
+Pack - Free:
+New Password: Kata Laluan Baru
+MailJet Public Api key:
+MailJet secret key:
+Note: Make sure that you created Sender email in your MailJet account:
+Re-send Confirmation Mail:
+Name is not valid!:
+You can't delete this pack, because it linked with many accounts:
+Basic:
+Discussions:
+Upgrade:
+Manage Stores:
+Add new:
+My Offers:
+All reservations:
+My reservations:
+Messages:
+商店:
+Show all:
+优惠:
+Enter:
+Pricing & Offer value:
+Select Type:
+Price:
+Percent:
+Offer price: Harga tawaran
+Enter price of your offer:
+Deal Option:
+Make as a deal:
+Customize in all languages:
+Enter...:
+Update running plan:
+Subscription & Automatic Payments:
+Auto renew:
+Select:
+My Stores:
+Create new store:
+Location:
+More:
+Enter a valid URL with http or https:
+Video URL:
+the field only accepts links from YouTube videos, please make sure to copy the link from youtube as following : https://www.youtube.com/watch?v=IS1FNtggVTc:
+Enter a valid youtube URL:
+Store photos:
+Store gallery:
+City:
+Lat:
+Lng:
+Opening time:
+Enable:
+monday:
+Closing time:
+tuesday:
+wednesday:
+thursday:
+friday:
+saturday:
+sunday:
+Store Options:
+Enable chat feature for this store:
+Enable chat:
+Enable booking feature for this store:
+After creating the store, you can edit the store detail to add the more services:
+Enable booking:
+No booking!:
+Filter:
+Order ID:
+Client:
+Business/Owner:
+Subtotal:
+Export:
+Export Data:
+Columns:
+Exporting...:
+Filter order:
+Business Owner:
+Select owner:
+Select date:
+Order Status:
+Limit:
+You don't have balance enough to enable auto renew, please add new balance to your account!:
+Platforms: Platforms
+Getting Option: Getting Option
+All: All
+Nearby users: Nearby users
+Random: Random
+Store & Location: Store & Location
+Account without verification: Account without verification
+We've sent mail verification to your mailbox: We've sent mail verification to your mailbox
+You didn't receive the confirmation email?: You didn't receive the confirmation email?
+Re-send the email: Re-send the email
+Campaign & Notification: Campaign & Notification
+Mobile information: Mobile information
+PayPal: PayPal
+Debit & Credit Card: Debit & Credit Card
+Pay using Stripe.com: Pay using Stripe.com
+Pay using razorpay.com: Pay using razorpay.com
+Transfer bank: Transfer bank
+MyWallet: MyWallet
+Cash payment: Cash payment
+Apple Pay: Apple Pay
+Confirmation!: Confirmation!
+Apply: Apply
+Alert!: Alert!
+DONE: DONE
+Dashboard config: Dashboard config
+Beauty: Beauty
+Fine Dining: Fine Dining
+Groceries: Groceries
+Haircut: Haircut
+Hire Handyman: Hire Handyman
+Homestay: Homestay
+Hotel: Hotel
+Massage: Massage
+Phone Repair: Phone Repair
+Restaurant: Restaurant
+Spa: Spa
+Travel Agency: Travel Agency
+Login to start your session: Login to start your session
+Success!: Success!
+Login or email: Login or email
+Forgot password ?: Forgot password ?
+Input invalid: Input invalid
+Mail Sent: Mail Sent
+  :
+Inbox:
+Load More:
+No Message:
+Type Message ...:
+Send:
+Me:
+Unpaid invoices:
+wallet:
+Pay online:
+pack:
+Mail verification:
+Freelance:
+Basic - Business:
+Advanced - Commercial:
+Premium - Commercial:
+Special - Commercial:

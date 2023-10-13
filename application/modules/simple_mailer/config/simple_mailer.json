@@ -1,0 +1,12 @@
+{
+  "name": "SimpleMailer",
+  "icon": "icon.jpg",
+  "description": "Use SimpleMailer to send email via platform, support SMTP, SendGrid",
+  "required": 1,
+  "version_code": 12,
+  "version_name": "1.1.1",
+  "order": 27,
+  "requirements": [],
+  "install_path": "",
+  "upgrade_path": ""
+}

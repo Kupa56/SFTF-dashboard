@@ -1,0 +1,174 @@
+/*/ <================================
+ * Custom adjustment style 27/11/2020
+ * =================================>*/
+
+
+/* Dashboard Style */
+
+
+@media (max-width: 768px) {
+
+	.login-box, .register-box{
+		width: 100%;
+		margin-top: 0px;
+		padding: 2em;
+	}
+}
+
+.admin_v1.skin-custom-sf .box.box-solid.box-primary{
+	border: 1px solid #ededed;
+	box-shadow: 1px 1px 7px 1px #eaeaea;
+}
+
+.admin_v1.skin-custom-sf .content-wrapper, .admin_v1.skin-custom-sf .right-side, #loaded-component{
+	background-color: #f7f7f7;
+}
+
+.admin_v1.skin-custom-sf.login-page {
+	height: 100% !important;
+	width: 100%;
+	position: fixed;
+	z-index: 800;
+	top: 0;
+	transition: 0.5s all;
+}
+
+.admin_v1.skin-custom-sf.login-page .box-holder{
+	height: 100%;
+}
+
+.admin_v1.skin-custom-sf.login-page .box-holder .box-left, .login-page.box-holder .box-right{
+	float: left;
+	height: 100%;
+}
+
+.admin_v1.skin-custom-sf.login-page .box-holder .box-left{
+	background-color: #ffffff;
+	position: relative;
+	z-index: 9999999;
+}
+
+@media (max-width: 768px) {
+
+	.admin_v1.skin-custom-sf.login-page .box-holder .box-left{
+		width: 100%;
+	}
+}
+
+
+
+.admin_v1.skin-custom-sf.login-page .box-holder .box-left .login-logo{
+	width: 150px;
+	height: auto;
+	margin: 0 auto;
+}
+
+.admin_v1.skin-custom-sf.login-page .box-holder .box-left .login-logo.app-default{
+	width: 200px;
+}
+
+.admin_v1.skin-custom-sf.login-page .box-holder .box-left .login-logo img{
+	height: 100%;
+	width: 100%;
+}
+
+.admin_v1.skin-custom-sf.login-page .box-holder .box-right .login-content{
+	padding: 20% 14% 26% 45%;
+}
+
+.admin_v1.skin-custom-sf.login-page .box-holder .box-right .login-content{
+	color: #ffffff;
+	z-index: 999999;
+	position: relative;
+}
+
+.admin_v1.skin-custom-sf.login-page .box-holder .box-right .seamless-bg{
+
+}
+
+.admin_v1.skin-custom-sf.sidebar-menu > li.header{
+	background: transparent !important;
+}
+
+
+
+.admin_v1.skin-custom-sf .input-group .form-control:first-child,
+.admin_v1.skin-custom-sf .input-group-addon:first-child,
+.admin_v1.skin-custom-sf .input-group-btn:first-child>.btn,
+.admin_v1.skin-custom-sf .input-group-btn:first-child>.btn-group>.btn,
+.admin_v1.skin-custom-sf .input-group-btn:first-child>.dropdown-toggle,
+.admin_v1.skin-custom-sf .input-group-btn:last-child>.btn-group:not(:last-child)>.btn,
+.admin_v1.skin-custom-sf .input-group-btn:last-child>.btn:not(:last-child):not(.dropdown-toggle){
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.admin_v1.skin-custom-sf .select2-container--default .select2-selection--single,
+.admin_v1.skin-custom-sf .select2-selection .select2-selection--single{
+	border-radius: 5px;
+}
+
+.admin_v1.skin-custom-sf .input-group .input-group-addon{
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+.admin_v1.skin-custom-sf .form-group .input-group .form-control{
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.admin_v1.skin-custom-sf .form-group div:not(.input-group) .form-control{
+	border-radius: 5px;
+}
+
+.admin_v1.skin-custom-sf .form-group .form-control{
+	border-radius: 5px;
+}
+
+.admin_v1.skin-custom-sf .form-group .input-group .form-control{
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-top-right-radius: 0px !important;
+	border-bottom-right-radius: 0px !important;;
+}
+
+.admin_v1.skin-custom-sf .select2-container--default.select2-container--focus .select2-selection--multiple,
+.admin_v1.skin-custom-sf .select2-container--default .select2-search--dropdown .select2-search__field,
+.admin_v1.skin-custom-sf .select2-container--default .select2-selection--multiple,
+.admin_v1.skin-custom-sf .form-group :not(.input-group) .form-control,
+.admin_v1.skin-custom-sf .form-control.custom_field{
+	border-radius: 5px;
+}
+
+.admin_v1.skin-custom-sf .transparent{
+	background: rgba(0, 0, 0, 0.3);
+	z-index: 99999;
+}
+
+.admin_v1.skin-custom-sf .cover{
+	z-index: 1000;
+}
+
+.admin_v1.skin-custom-sf .cover,.transparent{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+.admin_v1.skin-custom-sf .cover.custom-bg{
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+
+.admin_v1.skin-custom-sf .select2-container--default.select2-container--open{
+	z-index: 9999999;
+}
+
+

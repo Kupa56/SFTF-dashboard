@@ -1,0 +1,12 @@
+{
+  "name": "Payment Module",
+  "icon": "icon.jpg",
+  "description": "Pay by using Stripe, PayPal and current Balance",
+  "required": 0,
+  "version_code": 38,
+  "version_name": "2.5.31",
+  "order": 10,
+  "requirements": [],
+  "install_path": "",
+  "upgrade_path": ""
+}
