@@ -9,7 +9,7 @@ $this->load->library('user_agent');
 
 
     <div class="box-holder">
-        <div class="box-left">
+        <div class="box-center">
             <div class="login-box">
 
                 <div class="login-logo">
@@ -20,7 +20,8 @@ $this->load->library('user_agent');
                     if($logo!="")
                         echo '<img src="'.$logo.'"/>';
                     else
-                        echo '<img src="'.adminAssets("images/logo.png").'"/>';
+                        // echo '<img src="'.adminAssets("images/logo.png").'"/>';
+                        echo '<img src="' . adminAssets("images/splash_backgound.png") . '" style="width: 192px;"/>';
 
                     ?>
                 </div>
@@ -53,7 +54,9 @@ $this->load->library('user_agent');
                 <!-- /.login-box-body -->
             </div>
         </div>
-    <?php $this->load->view('user/frontend/html/box-right') ?>
+    <?php 
+    //$this->load->view('user/frontend/html/box-right') 
+    ?>
 
     </div>
 

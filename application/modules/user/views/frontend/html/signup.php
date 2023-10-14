@@ -1,6 +1,6 @@
 
 <div class="box-holder">
-    <div class="box-left">
+    <div class="box-center">
         <div class="login-box">
 
             <div class="login-logo">
@@ -11,7 +11,8 @@
                 if($logo!="")
                     echo '<img src="'.$logo.'"/>';
                 else
-                    echo '<img src="'.adminAssets("images/splash_backgound.png").'"/>';
+                    // echo '<img src="'.adminAssets("images/splash_backgound.png").'"/>';
+                    echo '<img src="' . adminAssets("images/splash_backgound.png") . '" style="width: 192px;"/>';
 
                 ?>
             </div>
@@ -109,7 +110,9 @@
             <!-- /.login-box-body -->
         </div>
     </div>
-<?php $this->load->view('user/frontend/html/box-right') ?>
+<?php 
+// $this->load->view('user/frontend/html/box-right') 
+?>
 
 </div>
 

@@ -1,7 +1,7 @@
 
 <?php
 
-AdminTemplateManager::addScriptLibs(adminAssets("plugins/select2/select2.full.min.js"));
+//AdminTemplateManager::addScriptLibs(adminAssets("plugins/select2/select2.full.min.js"));
 //AdminTemplateManager::addScriptLibs(adminAssets("plugins/colorpicker/bootstrap-colorpicker.js"));
 
 

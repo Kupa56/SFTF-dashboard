@@ -150,22 +150,39 @@ class Admin extends ADMIN_Controller {
     
     public function global_options(){
 
-        /*
+        // /*
+        // *  CHECK USER PEMISSIONS
+        // */
+
+        // if (!GroupAccess::isGranted('setting',CHANGE_APP_SETTING))
+        //     redirect("error?page=permission");
+
+        // AdminTemplateManager::set_settingActive('application');
+
+        // $data['config'] = $this->mConfigModel->getParams();
+        // $data['components'] = SettingViewer::loadComponent();
+
+        // $this->load->view(AdminPanel::TemplatePath."/include/header",$data);
+        // $this->load->view("setting/backend/html/config");
+        // $this->load->view(AdminPanel::TemplatePath."/include/footer");
+
+         /*
         *  CHECK USER PEMISSIONS
         */
+
+
 
         if (!GroupAccess::isGranted('setting',CHANGE_APP_SETTING))
             redirect("error?page=permission");
 
         AdminTemplateManager::set_settingActive('application');
-
         $data['config'] = $this->mConfigModel->getParams();
-        $data['components'] = SettingViewer::loadComponent();
+
+
 
         $this->load->view(AdminPanel::TemplatePath."/include/header",$data);
-        $this->load->view("setting/backend/html/config");
+        $this->load->view("setting/backend/html/globalset_config");
         $this->load->view(AdminPanel::TemplatePath."/include/footer");
-
 
     }
     public function app_config_xml(){

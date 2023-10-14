@@ -1,0 +1,5 @@
+/
+/config/config.php
+/application/cache/sessions/.*
+/application/cache/sessions/*
+/application/logs/*.php

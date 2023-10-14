@@ -84,7 +84,7 @@ $tabcounter=1;
 
 //$data['config'] = $config;
 $script = $this->load->view('setting/backend/html/scripts/config-script', FALSE, TRUE);
-AdminTemplateManager::addScript($script);
+//AdminTemplateManager::addScript($script);
 
 ?>
 
