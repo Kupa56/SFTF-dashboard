@@ -3,3 +3,4 @@
 /application/cache/sessions/.*
 /application/cache/sessions/*
 /application/logs/*.php
+/uploads/images/*.*
