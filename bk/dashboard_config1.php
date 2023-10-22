@@ -1,11 +1,3 @@
-<?php
-
-$timezones = DateTimeZone::listIdentifiers(DateTimeZone::ALL);
-$languages = Translate::getLangsCodes();
-
-?>
-
-<div class="box-body dashboard-block">
 <div class="row">
         <div class="col-sm-6">
             <div class="form-group">
@@ -134,24 +126,3 @@ $languages = Translate::getLangsCodes();
 
         </div>
     </div>
-</div>
-
-<div class="box-footer">
-    <div class="pull-right">
-        <button type="button" class="btn  btn-primary btnSaveDashboardConfig"><span
-                    class="glyphicon glyphicon-check"></span>&nbsp;<?php echo Translate::sprint("Save", "Save"); ?>
-        </button>
-    </div>
-</div>
-
-
-<?php
-
-
-$data['config'] = $config;
-$data['uploader_variable'] = $upload_plug['var'];
-
-$script = $this->load->view('setting/setting_viewer/scripts/dashboard-script', $data, TRUE);
-AdminTemplateManager::addScript($script);
-
-?>

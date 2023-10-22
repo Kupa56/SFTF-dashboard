@@ -1,8 +1,8 @@
 <?php
 
-$timezones = DateTimeZone::listIdentifiers(DateTimeZone::ALL);
-$languages = Translate::getLangsCodes();
-$tabCounterMax = 1;
+//$timezones = DateTimeZone::listIdentifiers(DateTimeZone::ALL);
+//$languages = Translate::getLangsCodes();
+$tabCounterMax = 0;
 $tabcounter=1;
 ?>
 
@@ -82,9 +82,9 @@ $tabcounter=1;
 
 <?php
 
-//$data['config'] = $config;
+$data['config'] = $config;
 $script = $this->load->view('setting/backend/html/scripts/config-script', FALSE, TRUE);
-//AdminTemplateManager::addScript($script);
+AdminTemplateManager::addScript($script);
 
 ?>
 
